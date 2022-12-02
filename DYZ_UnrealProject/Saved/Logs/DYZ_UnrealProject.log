@@ -1418,3 +1418,192 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.02-17.10.38:849][436]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Menu750B213C4988143EC75842AEAB600D13.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/Menu.umap'
 [2022.12.02-17.10.38:868][436]AssetCheck: New page: Asset Save: Menu
 [2022.12.02-17.10.38:868][436]LogContentValidation: Display: Validating World /Game/Levels/Menu.Menu
+[2022.12.02-17.20.55:702][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.12.02-17.20.55:704][103]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Menu' took 0.032
+[2022.12.02-17.20.55:704][103]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UI_Menu] ([2] browsable assets)...
+[2022.12.02-17.20.55:704][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Menu]
+[2022.12.02-17.20.55:714][103]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_Menu_Auto30327D1A44687F1056EADCF9FACC6A388.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Autosaves/Game/UI/UI_Menu_Auto3.uasset'
+[2022.12.02-17.20.55:715][103]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.12.02-17.23.36:734][430]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.12.02-17.23.36:745][430]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.12.02-17.23.46:416][ 11]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UI_SettingsMenu
+[2022.12.02-17.23.46:421][ 11]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.12.02-17.23.49:483][195]LogContentBrowser: Attempting asset rename: UI_Menu -> UI_Menu
+[2022.12.02-17.23.54:500][496]LogContentBrowser: Attempting asset rename: UI_Menu -> UI_MainMenu
+[2022.12.02-17.23.54:518][496]LogMetaData: Removing '/Game/UI/UI_MainMenu.SKEL_UI_MainMenu_C' ref from Metadata '/Game/UI/UI_Menu.PackageMetaData'
+[2022.12.02-17.23.54:518][496]LogMetaData: Removing '/Game/UI/UI_MainMenu.UI_MainMenu_C' ref from Metadata '/Game/UI/UI_Menu.PackageMetaData'
+[2022.12.02-17.23.54:518][496]LogMetaData: Removing '/Game/UI/UI_MainMenu.UI_MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/UI_Menu.PackageMetaData'
+[2022.12.02-17.23.54:518][496]LogMetaData: Removing '/Game/UI/UI_MainMenu.UI_MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/UI_Menu.PackageMetaData'
+[2022.12.02-17.23.54:518][496]LogMetaData: Removing '/Game/UI/UI_MainMenu.UI_MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/UI_Menu.PackageMetaData'
+[2022.12.02-17.23.54:518][496]LogMetaData: Removing '/Game/UI/UI_MainMenu.SKEL_UI_MainMenu_C:BndEvt__UI_Menu_Quitter_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/UI_Menu.PackageMetaData'
+[2022.12.02-17.23.54:518][496]LogMetaData: Removing '/Game/UI/UI_MainMenu.SKEL_UI_MainMenu_C:BndEvt__UI_Menu_NouvellePartie_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/UI_Menu.PackageMetaData'
+[2022.12.02-17.23.54:518][496]LogMetaData: Removing '/Game/UI/UI_MainMenu.SKEL_UI_MainMenu_C:Tick' ref from Metadata '/Game/UI/UI_Menu.PackageMetaData'
+[2022.12.02-17.23.54:518][496]LogMetaData: Removing '/Game/UI/UI_MainMenu.SKEL_UI_MainMenu_C:Construct' ref from Metadata '/Game/UI/UI_Menu.PackageMetaData'
+[2022.12.02-17.23.54:518][496]LogMetaData: Removing '/Game/UI/UI_MainMenu.SKEL_UI_MainMenu_C:PreConstruct' ref from Metadata '/Game/UI/UI_Menu.PackageMetaData'
+[2022.12.02-17.23.54:535][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.02-17.23.54:543][496]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_MainMenu3AB0A2A34B211BA1E424A2B544FA8F7B.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset'
+[2022.12.02-17.23.54:545][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Menu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_Menu.uasset" SILENT=true
+[2022.12.02-17.23.54:547][496]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_Menu35D06E474C02282A6278D1A5083BC23A.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_Menu.uasset'
+[2022.12.02-17.23.54:602][496]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.02-17.23.54:602][496]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.02-17.23.54:602][496]LogContentValidation: Display: Validating ObjectRedirector /Game/UI/UI_Menu.UI_Menu
+[2022.12.02-17.23.54:602][496]LogContentValidation: Display: Validating ObjectRedirector /Game/UI/UI_Menu.Default__UI_Menu_C
+[2022.12.02-17.23.54:602][496]LogContentValidation: Display: Validating ObjectRedirector /Game/UI/UI_Menu.UI_Menu_C
+[2022.12.02-17.23.57:155][649]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_SettingsMenu.UI_SettingsMenu
+[2022.12.02-17.30.26:829][569]LogEditorTransaction: Undo Remove Widget
+[2022.12.02-17.31.02:721][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.12.02-17.31.02:734][397]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Menu_Auto491273C63448AC9F224F894A727D28297.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Autosaves/Game/Levels/Menu_Auto4.umap'
+[2022.12.02-17.31.02:736][397]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Menu' took 0.055
+[2022.12.02-17.31.02:736][397]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.055
+[2022.12.02-17.31.02:737][397]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UI_MainMenu] ([4] browsable assets)...
+[2022.12.02-17.31.02:737][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_MainMenu]
+[2022.12.02-17.31.02:746][397]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_MainMenu_Auto49004D67A48DB4F6558CDF3B37CA38EA1.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Autosaves/Game/UI/UI_MainMenu_Auto4.uasset'
+[2022.12.02-17.31.02:748][397]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.12.02-17.32.12:689][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.02-17.32.12:704][406]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_MainMenu10B9E2F742B8FDDE48C8279D1C92370A.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset'
+[2022.12.02-17.32.12:725][406]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.02-17.32.12:725][406]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.02-17.34.16:039][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.02-17.34.16:050][864]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_MainMenu12F7415E484AE8733CBC2394863A513A.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset'
+[2022.12.02-17.34.16:067][864]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.02-17.34.16:067][864]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.02-17.34.17:101][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.02-17.34.17:111][926]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_MainMenuA7C4C59846A1BD01041F1EA2910CBD20.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset'
+[2022.12.02-17.34.17:128][926]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.02-17.34.17:128][926]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.02-17.34.17:454][946]BlueprintLog: New page: Compile UI_MainMenu
+[2022.12.02-17.34.17:508][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.12.02-17.34.18:268][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.02-17.34.18:280][990]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_MainMenu487439DA488645B6231131A398AD249A.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset'
+[2022.12.02-17.34.18:297][990]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.02-17.34.18:297][990]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.02-17.34.20:040][ 95]BlueprintLog: New page: Compile Menu
+[2022.12.02-17.34.20:092][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.12.02-17.34.20:662][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.12.02-17.34.20:668][127]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Menu08CE21934C0190787C5B58B5A33BCAD7.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/Menu.umap'
+[2022.12.02-17.34.20:685][127]LogFileHelpers: Saving map 'Menu' took 0.049
+[2022.12.02-17.34.20:701][127]AssetCheck: New page: Asset Save: Menu
+[2022.12.02-17.34.20:701][127]LogContentValidation: Display: Validating World /Game/Levels/Menu.Menu
+[2022.12.02-17.34.29:676][665]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-17.34.29:676][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.34.29:689][665]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-17.34.29:689][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.34.41:239][356]LogContentBrowser: Attempting asset rename: UI_MainMenu -> UI_MainMenu
+[2022.12.02-17.34.46:495][664]LogSlate: Took 0.000742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.02-17.35.08:190][966]BlueprintLog: New page: Compile UI_MainMenu
+[2022.12.02-17.35.08:229][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.12.02-17.35.09:053][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.02-17.35.09:065][ 14]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_MainMenuCAD3406C463FFE12F519E2BF0CFA2361.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset'
+[2022.12.02-17.35.09:077][ 14]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.02-17.35.09:077][ 14]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.02-17.35.11:498][160]LogContentBrowser: Attempting asset rename: UI_MainMenu -> UI_MainMenu
+[2022.12.02-17.35.17:132][498]LogContentBrowser: Attempting asset rename: UI_MainMenu -> UI_MainMenu
+[2022.12.02-17.35.21:110][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.02-17.35.21:122][736]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_MainMenu51451A0A4C86A1BDC203169ED32B986B.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset'
+[2022.12.02-17.35.21:134][736]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.02-17.35.21:134][736]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.02-17.35.35:248][583]LogContentBrowser: Attempting asset rename: UI_MainMenu -> UI_MainMenu
+[2022.12.02-17.35.40:330][886]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.02-17.35.40:343][886]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_MainMenu6DF420A54D2092FC1C5F349D1DFF8E47.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset'
+[2022.12.02-17.35.40:358][886]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.02-17.35.40:358][886]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.02-17.35.40:627][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.02-17.35.40:639][902]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_MainMenu8456052F48514BC24480939F0569E6B4.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset'
+[2022.12.02-17.35.40:651][902]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.02-17.35.40:651][902]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.02-17.36.05:544][396]LogContentBrowser: Attempting asset rename: UI_MainMenu -> UI_MainMenu
+[2022.12.02-17.36.08:660][581]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.12.02-17.36.08:677][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_SettingsMenu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_SettingsMenu.uasset" SILENT=true
+[2022.12.02-17.36.08:681][581]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_SettingsMenuBECA30DE443C214B78930798ABF7E55D.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_SettingsMenu.uasset'
+[2022.12.02-17.36.08:695][581]AssetCheck: New page: Asset Save: UI_SettingsMenu
+[2022.12.02-17.36.08:695][581]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_SettingsMenu.UI_SettingsMenu
+[2022.12.02-17.36.16:186][ 31]LogContentBrowser: Attempting asset rename: UI_MainMenu -> UI_MainMenu
+[2022.12.02-17.36.48:955][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.12.02-17.36.50:535][994]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.02-17.36.50:621][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.12.02-17.36.50:654][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.12.02-17.36.50:679][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.02-17.39.33:291][667]BlueprintLog: New page: Compile UI_MainMenu
+[2022.12.02-17.39.33:326][667]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.12.02-17.39.34:051][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_MainMenu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset" SILENT=true
+[2022.12.02-17.39.34:064][709]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_MainMenu88563EB34FE61EC853CDAD8E10F8B649.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_MainMenu.uasset'
+[2022.12.02-17.39.34:081][709]AssetCheck: New page: Asset Save: UI_MainMenu
+[2022.12.02-17.39.34:081][709]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_MainMenu.UI_MainMenu
+[2022.12.02-17.40.00:170][267]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.02-17.40.00:180][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.02-17.40.00:180][267]PIE: New page: PIE session: Menu (2 déc. 2022 à 19:40:00)
+[2022.12.02-17.40.00:180][267]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Menu
+[2022.12.02-17.40.00:181][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000895s)
+[2022.12.02-17.40.00:182][267]LogAIModule: Creating AISystem for world Menu
+[2022.12.02-17.40.00:182][267]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2022.12.02-17.40.00:182][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Menu.Menu to /Game/Levels/UEDPIE_0_Menu.Menu (0.001870s)
+[2022.12.02-17.40.00:209][267]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.12.02-17.40.00:210][267]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.12.02-17.40.00:211][267]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.02-17.40.00:211][267]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.02-17.40.00:211][267]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.02-17.40.00:211][267]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.02-17.40.00:211][267]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.02-17.40.00:211][267]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.02-17.40.00:211][267]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.02-17.40.00:211][267]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.02-17.40.00:211][267]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.02-17.40.00:211][267]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.02-17.40.00:211][267]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.02-17.40.00:211][267]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.02-17.40.00:217][267]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.02-17.40.00:217][267]LogAudioMixer: Display: 1: FrontRight
+[2022.12.02-17.40.00:261][267]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Turtle Beach Stealth 700 G2 MAX)
+[2022.12.02-17.40.00:262][267]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.02-17.40.00:262][267]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.02-17.40.00:262][267]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.02-17.40.00:262][267]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.02-17.40.00:262][267]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.02-17.40.00:262][267]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.02-17.40.00:263][267]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.02-17.40.00:263][267]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.02-17.40.00:263][267]LogInit: FAudioDevice initialized.
+[2022.12.02-17.40.00:263][267]LogAudio: Display: Audio Device (ID: 8) registered with world 'Menu'.
+[2022.12.02-17.40.00:271][267]LogLoad: Game class is 'GameModeBase'
+[2022.12.02-17.40.00:272][267]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2022.12.02-18.40.00
+[2022.12.02-17.40.00:272][267]LogWorld: Bringing up level for play took: 0.000258
+[2022.12.02-17.40.00:272][267]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.12.02-17.40.00:274][267]PIE: Server logged in
+[2022.12.02-17.40.00:275][267]PIE: Play in editor total start time 0,099 seconds.
+[2022.12.02-17.40.07:352][692]LogNet: Browse: /Game/Levels/Map
+[2022.12.02-17.40.07:352][692]LogLoad: LoadMap: /Game/Levels/Map
+[2022.12.02-17.40.07:352][692]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Menu
+[2022.12.02-17.40.07:352][692]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-17.40.07:352][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.40.07:376][692]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.02-17.40.07:379][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.12.02-17.40.07:383][692]LogAudio: Display: Audio Device (ID: 8) registered with world 'Map'.
+[2022.12.02-17.40.07:384][692]LogAIModule: Creating AISystem for world Map
+[2022.12.02-17.40.07:385][692]LogLoad: Game class is 'GameModeBase'
+[2022.12.02-17.40.07:386][692]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2022.12.02-18.40.07
+[2022.12.02-17.40.07:386][692]LogWorld: Bringing up level for play took: 0.000945
+[2022.12.02-17.40.07:387][692]LogLoad: Took 0.035152 seconds to LoadMap(/Game/Levels/Map)
+[2022.12.02-17.40.10:998][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-17.40.10:998][906]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Map
+[2022.12.02-17.40.10:998][906]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-17.40.10:998][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.40.11:008][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.02-17.40.11:013][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.40.11:036][906]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.02-17.40.11:037][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.02-17.40.11:038][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.02-17.40.11:050][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-17.40.11:053][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.12.02-17.40.11:071][907]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.12.02-17.40.13:781][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.12.02-17.40.13:788][ 67]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Menu5EF797C2478F4209553BEAA6215EB156.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/Menu.umap'
+[2022.12.02-17.40.13:809][ 67]AssetCheck: New page: Asset Save: Menu
+[2022.12.02-17.40.13:809][ 67]LogContentValidation: Display: Validating World /Game/Levels/Menu.Menu
+[2022.12.02-17.40.15:653][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.12.02-17.40.15:660][176]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Menu4A1D903542CBC5E0F5A90FBF2B3C8085.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/Menu.umap'
+[2022.12.02-17.40.15:681][176]AssetCheck: New page: Asset Save: Menu
+[2022.12.02-17.40.15:681][176]LogContentValidation: Display: Validating World /Game/Levels/Menu.Menu
+[2022.12.02-17.40.15:857][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.12.02-17.40.15:863][185]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/MenuFD95DB5044F4403D9F0AFD8CF5079A91.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/Menu.umap'
+[2022.12.02-17.40.15:883][185]AssetCheck: New page: Asset Save: Menu
+[2022.12.02-17.40.15:883][185]LogContentValidation: Display: Validating World /Game/Levels/Menu.Menu
