@@ -982,3 +982,439 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.02-16.40.56:170][ 13]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/3d-cubes-floating-5120x2880-9263E85D2FF84DA1848409E53FB1E634244E.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Images/3d-cubes-floating-5120x2880-9263.uasset'
 [2022.12.02-16.40.56:205][ 13]AssetCheck: New page: Asset Save: 3d-cubes-floating-5120x2880-9263
 [2022.12.02-16.40.56:205][ 13]LogContentValidation: Display: Validating Texture2D /Game/Images/3d-cubes-floating-5120x2880-9263.3d-cubes-floating-5120x2880-9263
+[2022.12.02-16.45.39:789][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Menu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_Menu.uasset" SILENT=true
+[2022.12.02-16.45.39:796][663]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_MenuF287354D41686886ECD5A994B6D901E3.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_Menu.uasset'
+[2022.12.02-16.45.39:809][663]AssetCheck: New page: Asset Save: UI_Menu
+[2022.12.02-16.45.39:809][663]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_Menu.UI_Menu
+[2022.12.02-16.47.31:582][413]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-16.47.50:430][543]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-16.48.11:928][829]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-16.48.37:797][379]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-16.48.56:780][515]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-16.49.00:627][745]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-16.49.10:095][311]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-16.49.21:195][973]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-16.49.33:438][704]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-16.49.48:134][585]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-16.49.57:204][127]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-16.50.00:201][306]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-16.50.05:550][624]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-16.50.22:427][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Menu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_Menu.uasset" SILENT=true
+[2022.12.02-16.50.22:433][141]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_Menu233F507D402C254FDE9CDE97C15506A7.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_Menu.uasset'
+[2022.12.02-16.50.22:444][141]AssetCheck: New page: Asset Save: UI_Menu
+[2022.12.02-16.50.22:444][141]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_Menu.UI_Menu
+[2022.12.02-16.50.27:914][469]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Menu.Menu:PersistentLevel.Menu
+[2022.12.02-16.54.37:737][157]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.02-16.55.11:097][141]LogSlate: Took 0.001503 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.02-16.55.16:387][344]BlueprintLog: New page: Compile Menu
+[2022.12.02-16.55.16:423][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.12.02-16.55.17:528][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.12.02-16.55.17:537][408]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Menu6DCC62794FDD042DB4A19685F269069D.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/Menu.umap'
+[2022.12.02-16.55.17:547][408]LogFileHelpers: Saving map 'Menu' took 0.046
+[2022.12.02-16.55.17:563][408]AssetCheck: New page: Asset Save: Menu
+[2022.12.02-16.55.17:563][408]LogContentValidation: Display: Validating World /Game/Levels/Menu.Menu
+[2022.12.02-16.55.22:348][694]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.02-16.55.22:365][694]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.02-16.55.22:369][694]LogPlayLevel: [PlayLevel] Compiling UI_Menu before play...
+[2022.12.02-16.55.22:408][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.12.02-16.55.22:409][694]LogPlayLevel: PlayLevel: Blueprint regeneration took 43 ms (1 blueprints)
+[2022.12.02-16.55.22:410][694]PIE: New page: PIE session: Menu (2 déc. 2022 à 18:55:22)
+[2022.12.02-16.55.22:419][694]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.12.02-16.55.22:424][694]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.12.02-16.55.22:425][694]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Menu
+[2022.12.02-16.55.22:429][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003648s)
+[2022.12.02-16.55.22:431][694]LogAIModule: Creating AISystem for world Menu
+[2022.12.02-16.55.22:432][694]LogPlayLevel: PIE: World Init took: (0.002255s)
+[2022.12.02-16.55.22:432][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Menu.Menu to /Game/Levels/UEDPIE_0_Menu.Menu (0.006302s)
+[2022.12.02-16.55.22:452][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.12.02-16.55.22:454][694]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.12.02-16.55.22:456][694]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.02-16.55.22:456][694]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.02-16.55.22:456][694]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.02-16.55.22:456][694]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.02-16.55.22:456][694]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.02-16.55.22:456][694]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.02-16.55.22:456][694]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.02-16.55.22:456][694]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.02-16.55.22:458][694]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.02-16.55.22:458][694]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.02-16.55.22:458][694]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.02-16.55.22:458][694]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.02-16.55.22:466][694]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.02-16.55.22:466][694]LogAudioMixer: Display: 1: FrontRight
+[2022.12.02-16.55.22:523][694]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Turtle Beach Stealth 700 G2 MAX)
+[2022.12.02-16.55.22:525][694]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.02-16.55.22:525][694]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.02-16.55.22:526][694]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.02-16.55.22:527][694]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.02-16.55.22:527][694]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.02-16.55.22:527][694]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.02-16.55.22:528][694]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.02-16.55.22:528][694]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.02-16.55.22:528][694]LogInit: FAudioDevice initialized.
+[2022.12.02-16.55.22:529][694]LogAudio: Display: Audio Device (ID: 2) registered with world 'Menu'.
+[2022.12.02-16.55.22:547][694]LogLoad: Game class is 'GameModeBase'
+[2022.12.02-16.55.22:549][694]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2022.12.02-17.55.22
+[2022.12.02-16.55.22:550][694]LogWorld: Bringing up level for play took: 0.001448
+[2022.12.02-16.55.22:552][694]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.12.02-16.55.22:583][694]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2022.12.02-16.55.22:598][694]PIE: Server logged in
+[2022.12.02-16.55.22:599][694]PIE: Play in editor total start time 0,242 seconds.
+[2022.12.02-16.55.35:646][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-16.55.35:646][461]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Menu
+[2022.12.02-16.55.35:648][461]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-16.55.35:649][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-16.55.35:660][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.02-16.55.35:666][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-16.55.35:688][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-16.55.35:691][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.02-16.55.35:692][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.02-16.55.35:742][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.12.02-16.55.35:760][462]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.12.02-16.57.09:758][ 97]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 120097
+[2022.12.02-16.57.09:759][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-16.57.09:771][ 98]LogSlate: Took 0.001270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.02-16.57.09:777][ 98]LogSlate: Took 0.000958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.02-16.57.09:778][ 98]LogSlate: Took 0.000760 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.02-16.57.09:781][ 98]LogSlate: Took 0.001943 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.02-16.57.09:782][ 98]LogSlate: Took 0.000679 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.02-16.57.09:966][109]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 12
+[2022.12.02-16.57.09:967][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-16.57.09:979][110]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.02-16.57.09:983][110]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.02-16.57.09:984][110]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.02-16.57.09:984][110]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.02-16.57.09:986][110]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.02-16.57.10:137][119]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 10
+[2022.12.02-16.57.10:137][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-16.57.10:150][120]LogSlate: Took 0.000509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.02-16.57.10:153][120]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.02-16.57.10:154][120]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.02-16.57.10:155][120]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.02-16.57.10:156][120]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.02-16.57.10:255][126]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 7
+[2022.12.02-16.57.10:256][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-16.57.10:269][127]LogSlate: Took 0.000293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.02-16.57.10:273][127]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.02-16.57.10:274][127]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.02-16.57.10:275][127]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.02-16.57.10:276][127]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.02-16.57.57:163][930]LogSlate: Took 0.000479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.02-16.57.59:874][930]LogSlate: Window 'Save Asset As' being destroyed
+[2022.12.02-16.58.00:179][948]LogSlate: Took 0.008598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.02-16.58.20:383][158]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-17.00.11:444][815]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.02-17.00.20:024][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Menu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_Menu.uasset" SILENT=true
+[2022.12.02-17.00.20:031][329]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_Menu594E9B7448C3CDC14B0F8B94AAF1D1EB.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_Menu.uasset'
+[2022.12.02-17.00.20:052][329]AssetCheck: New page: Asset Save: UI_Menu
+[2022.12.02-17.00.20:053][329]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_Menu.UI_Menu
+[2022.12.02-17.00.20:629][364]LogSlate: Took 0.000451 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.02-17.00.25:517][657]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.02-17.00.25:528][657]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.02-17.00.25:529][657]LogPlayLevel: [PlayLevel] Compiling UI_Menu before play...
+[2022.12.02-17.00.25:596][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.12.02-17.00.25:598][657]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (1 blueprints)
+[2022.12.02-17.00.25:598][657]PIE: New page: PIE session: Menu (2 déc. 2022 à 19:00:25)
+[2022.12.02-17.00.25:603][657]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Menu
+[2022.12.02-17.00.25:605][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001081s)
+[2022.12.02-17.00.25:606][657]LogAIModule: Creating AISystem for world Menu
+[2022.12.02-17.00.25:606][657]LogPlayLevel: PIE: World Init took: (0.001247s)
+[2022.12.02-17.00.25:606][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Menu.Menu to /Game/Levels/UEDPIE_0_Menu.Menu (0.002477s)
+[2022.12.02-17.00.25:631][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.12.02-17.00.25:634][657]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.02-17.00.25:634][657]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.02-17.00.25:634][657]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.02-17.00.25:634][657]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.02-17.00.25:634][657]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.02-17.00.25:634][657]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.02-17.00.25:634][657]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.02-17.00.25:634][657]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.02-17.00.25:634][657]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.02-17.00.25:634][657]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.02-17.00.25:634][657]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.02-17.00.25:634][657]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.02-17.00.25:634][657]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.02-17.00.25:640][657]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.02-17.00.25:640][657]LogAudioMixer: Display: 1: FrontRight
+[2022.12.02-17.00.25:678][657]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Turtle Beach Stealth 700 G2 MAX)
+[2022.12.02-17.00.25:678][657]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.02-17.00.25:678][657]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.02-17.00.25:678][657]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.02-17.00.25:679][657]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.02-17.00.25:679][657]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.02-17.00.25:679][657]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.02-17.00.25:680][657]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.02-17.00.25:680][657]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.02-17.00.25:680][657]LogInit: FAudioDevice initialized.
+[2022.12.02-17.00.25:680][657]LogAudio: Display: Audio Device (ID: 3) registered with world 'Menu'.
+[2022.12.02-17.00.25:685][657]LogLoad: Game class is 'GameModeBase'
+[2022.12.02-17.00.25:685][657]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2022.12.02-18.00.25
+[2022.12.02-17.00.25:685][657]LogWorld: Bringing up level for play took: 0.000286
+[2022.12.02-17.00.25:686][657]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.12.02-17.00.25:688][657]PIE: Server logged in
+[2022.12.02-17.00.25:689][657]PIE: Play in editor total start time 0,165 seconds.
+[2022.12.02-17.00.28:293][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-17.00.28:293][811]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Menu
+[2022.12.02-17.00.28:293][811]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-17.00.28:293][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.00.28:301][811]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.02-17.00.28:306][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.00.28:328][811]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-17.00.28:328][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.02-17.00.28:329][811]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.02-17.00.28:347][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.12.02-17.00.28:366][812]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.12.02-17.00.39:853][911]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.02-17.00.39:863][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.02-17.00.39:863][911]PIE: New page: PIE session: Menu (2 déc. 2022 à 19:00:39)
+[2022.12.02-17.00.39:863][911]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Menu
+[2022.12.02-17.00.39:864][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000808s)
+[2022.12.02-17.00.39:865][911]LogAIModule: Creating AISystem for world Menu
+[2022.12.02-17.00.39:865][911]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2022.12.02-17.00.39:865][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Menu.Menu to /Game/Levels/UEDPIE_0_Menu.Menu (0.001691s)
+[2022.12.02-17.00.39:887][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.12.02-17.00.39:888][911]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.02-17.00.39:888][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.02-17.00.39:888][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.02-17.00.39:888][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.02-17.00.39:888][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.02-17.00.39:888][911]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.02-17.00.39:888][911]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.02-17.00.39:888][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.02-17.00.39:888][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.02-17.00.39:888][911]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.02-17.00.39:888][911]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.02-17.00.39:888][911]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.02-17.00.39:888][911]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.02-17.00.39:894][911]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.02-17.00.39:894][911]LogAudioMixer: Display: 1: FrontRight
+[2022.12.02-17.00.39:932][911]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Turtle Beach Stealth 700 G2 MAX)
+[2022.12.02-17.00.39:933][911]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.02-17.00.39:933][911]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.02-17.00.39:933][911]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.02-17.00.39:933][911]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.02-17.00.39:933][911]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.02-17.00.39:933][911]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.02-17.00.39:934][911]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.02-17.00.39:934][911]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.02-17.00.39:934][911]LogInit: FAudioDevice initialized.
+[2022.12.02-17.00.39:934][911]LogAudio: Display: Audio Device (ID: 4) registered with world 'Menu'.
+[2022.12.02-17.00.39:942][911]LogLoad: Game class is 'GameModeBase'
+[2022.12.02-17.00.39:942][911]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2022.12.02-18.00.39
+[2022.12.02-17.00.39:942][911]LogWorld: Bringing up level for play took: 0.000242
+[2022.12.02-17.00.39:942][911]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.12.02-17.00.39:943][911]PIE: Server logged in
+[2022.12.02-17.00.39:944][911]PIE: Play in editor total start time 0,086 seconds.
+[2022.12.02-17.00.43:802][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-17.00.43:802][141]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Menu
+[2022.12.02-17.00.43:803][141]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-17.00.43:803][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.00.43:810][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.02-17.00.43:815][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.00.43:836][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-17.00.43:836][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.02-17.00.43:838][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.02-17.00.43:853][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.12.02-17.00.43:870][142]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.12.02-17.05.37:949][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.12.02-17.05.37:951][707]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Menu' took 0.031
+[2022.12.02-17.05.37:952][707]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/UI_Menu] ([2] browsable assets)...
+[2022.12.02-17.05.37:952][707]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/UI_Menu]
+[2022.12.02-17.05.37:958][707]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_Menu_Auto21CBFF6AE4B248591E63EFD8A33FF927A.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Autosaves/Game/UI/UI_Menu_Auto2.uasset'
+[2022.12.02-17.05.37:959][707]LogFileHelpers: Auto-saving content packages took 0.008
+[2022.12.02-17.09.42:210][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Menu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_Menu.uasset" SILENT=true
+[2022.12.02-17.09.42:218][489]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_MenuE02373D743917871C0CCE19AF0843778.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_Menu.uasset'
+[2022.12.02-17.09.42:234][489]AssetCheck: New page: Asset Save: UI_Menu
+[2022.12.02-17.09.42:234][489]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_Menu.UI_Menu
+[2022.12.02-17.09.42:826][525]BlueprintLog: New page: Compile UI_Menu
+[2022.12.02-17.09.42:871][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.12.02-17.09.43:443][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Menu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_Menu.uasset" SILENT=true
+[2022.12.02-17.09.43:453][558]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_Menu9CCEA8EC4B6BA1129E592B92C9ECEBF6.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_Menu.uasset'
+[2022.12.02-17.09.43:468][558]AssetCheck: New page: Asset Save: UI_Menu
+[2022.12.02-17.09.43:469][558]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_Menu.UI_Menu
+[2022.12.02-17.09.48:036][831]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.02-17.09.48:049][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.02-17.09.48:049][831]PIE: New page: PIE session: Menu (2 déc. 2022 à 19:09:48)
+[2022.12.02-17.09.48:049][831]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Menu
+[2022.12.02-17.09.48:050][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000879s)
+[2022.12.02-17.09.48:051][831]LogAIModule: Creating AISystem for world Menu
+[2022.12.02-17.09.48:051][831]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2022.12.02-17.09.48:051][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Menu.Menu to /Game/Levels/UEDPIE_0_Menu.Menu (0.001873s)
+[2022.12.02-17.09.48:077][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.12.02-17.09.48:078][831]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.12.02-17.09.48:078][831]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.02-17.09.48:078][831]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.02-17.09.48:078][831]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.02-17.09.48:078][831]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.02-17.09.48:078][831]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.02-17.09.48:078][831]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.02-17.09.48:078][831]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.02-17.09.48:078][831]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.02-17.09.48:079][831]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.02-17.09.48:079][831]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.02-17.09.48:079][831]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.02-17.09.48:079][831]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.02-17.09.48:091][831]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.02-17.09.48:091][831]LogAudioMixer: Display: 1: FrontRight
+[2022.12.02-17.09.48:133][831]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Turtle Beach Stealth 700 G2 MAX)
+[2022.12.02-17.09.48:133][831]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.02-17.09.48:133][831]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.02-17.09.48:133][831]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.02-17.09.48:134][831]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.02-17.09.48:134][831]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.02-17.09.48:134][831]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.02-17.09.48:135][831]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.02-17.09.48:135][831]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.02-17.09.48:135][831]LogInit: FAudioDevice initialized.
+[2022.12.02-17.09.48:135][831]LogAudio: Display: Audio Device (ID: 5) registered with world 'Menu'.
+[2022.12.02-17.09.48:141][831]LogLoad: Game class is 'GameModeBase'
+[2022.12.02-17.09.48:141][831]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2022.12.02-18.09.48
+[2022.12.02-17.09.48:141][831]LogWorld: Bringing up level for play took: 0.000309
+[2022.12.02-17.09.48:142][831]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.12.02-17.09.48:144][831]PIE: Server logged in
+[2022.12.02-17.09.48:144][831]PIE: Play in editor total start time 0,099 seconds.
+[2022.12.02-17.09.51:421][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-17.09.51:425][ 28]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Menu
+[2022.12.02-17.09.51:426][ 28]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-17.09.51:426][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.09.51:433][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.02-17.09.51:438][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.09.51:461][ 28]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.02-17.09.51:461][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.02-17.09.51:462][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.02-17.09.51:476][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-17.09.51:480][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.12.02-17.09.51:514][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.12.02-17.09.51:535][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.12.02-17.10.16:989][166]BlueprintLog: New page: Compile UI_Menu
+[2022.12.02-17.10.17:019][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.12.02-17.10.17:521][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Menu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_Menu.uasset" SILENT=true
+[2022.12.02-17.10.17:530][195]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_MenuA7C645DD44850EB480DBDE9AE57161EC.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_Menu.uasset'
+[2022.12.02-17.10.17:546][195]AssetCheck: New page: Asset Save: UI_Menu
+[2022.12.02-17.10.17:546][195]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_Menu.UI_Menu
+[2022.12.02-17.10.22:140][470]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.02-17.10.22:151][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.02-17.10.22:151][470]PIE: New page: PIE session: Menu (2 déc. 2022 à 19:10:22)
+[2022.12.02-17.10.22:187][470]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Menu
+[2022.12.02-17.10.22:188][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000870s)
+[2022.12.02-17.10.22:189][470]LogAIModule: Creating AISystem for world Menu
+[2022.12.02-17.10.22:189][470]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2022.12.02-17.10.22:189][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Menu.Menu to /Game/Levels/UEDPIE_0_Menu.Menu (0.001824s)
+[2022.12.02-17.10.22:223][470]LogUObjectHash: Compacting FUObjectHashTables data took   8.67ms
+[2022.12.02-17.10.22:224][470]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.12.02-17.10.22:224][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.02-17.10.22:224][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.02-17.10.22:224][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.02-17.10.22:224][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.02-17.10.22:224][470]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.02-17.10.22:224][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.02-17.10.22:224][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.02-17.10.22:224][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.02-17.10.22:224][470]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.02-17.10.22:224][470]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.02-17.10.22:224][470]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.02-17.10.22:224][470]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.02-17.10.22:231][470]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.02-17.10.22:231][470]LogAudioMixer: Display: 1: FrontRight
+[2022.12.02-17.10.22:277][470]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Turtle Beach Stealth 700 G2 MAX)
+[2022.12.02-17.10.22:277][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.02-17.10.22:277][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.02-17.10.22:277][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.02-17.10.22:278][470]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.02-17.10.22:278][470]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.02-17.10.22:278][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.02-17.10.22:279][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.02-17.10.22:279][470]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.02-17.10.22:279][470]LogInit: FAudioDevice initialized.
+[2022.12.02-17.10.22:279][470]LogAudio: Display: Audio Device (ID: 6) registered with world 'Menu'.
+[2022.12.02-17.10.22:290][470]LogLoad: Game class is 'GameModeBase'
+[2022.12.02-17.10.22:291][470]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2022.12.02-18.10.22
+[2022.12.02-17.10.22:291][470]LogWorld: Bringing up level for play took: 0.000240
+[2022.12.02-17.10.22:291][470]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.12.02-17.10.22:293][470]PIE: Server logged in
+[2022.12.02-17.10.22:293][470]PIE: Play in editor total start time 0,146 seconds.
+[2022.12.02-17.10.22:958][510]LogNet: Browse: /Game/Levels/Map
+[2022.12.02-17.10.22:959][510]LogLoad: LoadMap: /Game/Levels/Map
+[2022.12.02-17.10.22:959][510]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Menu
+[2022.12.02-17.10.22:960][510]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-17.10.22:960][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.10.23:008][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.02-17.10.23:011][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.12.02-17.10.23:015][510]LogAudio: Display: Audio Device (ID: 6) registered with world 'Map'.
+[2022.12.02-17.10.23:015][510]LogAIModule: Creating AISystem for world Map
+[2022.12.02-17.10.23:016][510]LogLoad: Game class is 'GameModeBase'
+[2022.12.02-17.10.23:017][510]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2022.12.02-18.10.23
+[2022.12.02-17.10.23:017][510]LogWorld: Bringing up level for play took: 0.001449
+[2022.12.02-17.10.23:020][510]LogLoad: Took 0.061127 seconds to LoadMap(/Game/Levels/Map)
+[2022.12.02-17.10.27:941][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-17.10.27:941][803]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Map
+[2022.12.02-17.10.27:941][803]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-17.10.27:941][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.10.27:952][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.02-17.10.27:957][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.10.27:979][803]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.02-17.10.27:979][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.02-17.10.27:980][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.02-17.10.27:994][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-17.10.27:997][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.12.02-17.10.28:012][804]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.12.02-17.10.28:680][844]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.02-17.10.28:690][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.02-17.10.28:690][844]PIE: New page: PIE session: Menu (2 déc. 2022 à 19:10:28)
+[2022.12.02-17.10.28:690][844]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Menu
+[2022.12.02-17.10.28:691][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000792s)
+[2022.12.02-17.10.28:692][844]LogAIModule: Creating AISystem for world Menu
+[2022.12.02-17.10.28:692][844]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2022.12.02-17.10.28:692][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Menu.Menu to /Game/Levels/UEDPIE_0_Menu.Menu (0.001645s)
+[2022.12.02-17.10.28:715][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.12.02-17.10.28:716][844]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.12.02-17.10.28:716][844]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.02-17.10.28:716][844]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.02-17.10.28:716][844]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.02-17.10.28:716][844]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.02-17.10.28:716][844]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.02-17.10.28:716][844]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.02-17.10.28:716][844]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.02-17.10.28:716][844]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.02-17.10.28:716][844]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.02-17.10.28:716][844]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.02-17.10.28:716][844]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.02-17.10.28:716][844]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.02-17.10.28:723][844]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.02-17.10.28:723][844]LogAudioMixer: Display: 1: FrontRight
+[2022.12.02-17.10.28:771][844]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Turtle Beach Stealth 700 G2 MAX)
+[2022.12.02-17.10.28:771][844]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.02-17.10.28:772][844]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.02-17.10.28:772][844]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.02-17.10.28:772][844]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.02-17.10.28:772][844]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.02-17.10.28:772][844]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.02-17.10.28:773][844]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.02-17.10.28:773][844]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.02-17.10.28:773][844]LogInit: FAudioDevice initialized.
+[2022.12.02-17.10.28:773][844]LogAudio: Display: Audio Device (ID: 7) registered with world 'Menu'.
+[2022.12.02-17.10.28:784][844]LogLoad: Game class is 'GameModeBase'
+[2022.12.02-17.10.28:784][844]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Menu.Menu up for play (max tick rate 60) at 2022.12.02-18.10.28
+[2022.12.02-17.10.28:784][844]LogWorld: Bringing up level for play took: 0.000232
+[2022.12.02-17.10.28:784][844]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.12.02-17.10.28:786][844]PIE: Server logged in
+[2022.12.02-17.10.28:787][844]PIE: Play in editor total start time 0,102 seconds.
+[2022.12.02-17.10.31:495][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-17.10.31:499][  7]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Menu
+[2022.12.02-17.10.31:528][  7]LogWorld: UWorld::CleanupWorld for Menu, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-17.10.31:528][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.10.31:535][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.02-17.10.31:540][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-17.10.31:560][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.02-17.10.31:560][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.02-17.10.31:561][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.02-17.10.31:576][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.12.02-17.10.31:612][  8]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.12.02-17.10.38:219][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.12.02-17.10.38:227][402]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Menu761AE6E54D8FAE03B8347BB518B2413F.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/Menu.umap'
+[2022.12.02-17.10.38:248][402]AssetCheck: New page: Asset Save: Menu
+[2022.12.02-17.10.38:248][402]LogContentValidation: Display: Validating World /Game/Levels/Menu.Menu
+[2022.12.02-17.10.38:841][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.12.02-17.10.38:849][436]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Menu750B213C4988143EC75842AEAB600D13.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/Menu.umap'
+[2022.12.02-17.10.38:868][436]AssetCheck: New page: Asset Save: Menu
+[2022.12.02-17.10.38:868][436]LogContentValidation: Display: Validating World /Game/Levels/Menu.Menu
