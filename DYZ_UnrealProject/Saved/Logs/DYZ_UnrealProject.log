@@ -899,3 +899,86 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.02-15.25.10:830][  0]LogAssetRegistry: Asset discovery search completed in 8.2446 seconds
 [2022.12.02-15.25.10:839][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
 [2022.12.02-15.25.10:843][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.02-16.05.00:097][372]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.02-16.05.00:128][372]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.02-16.05.00:133][372]LogSlate: Took 0.001141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.02-16.05.02:804][533]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2022.12.02-16.05.02:806][533]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.02-16.05.12:765][689]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.02-16.05.12:774][689]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.02-16.05.14:731][807]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2022.12.02-16.05.14:731][807]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.02-16.05.34:767][997]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.02-16.05.34:774][997]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.02-16.05.37:049][134]LogContentBrowser: Attempting asset rename: NewFolder -> Images
+[2022.12.02-16.05.37:050][134]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.02-16.06.34:337][732]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.12.02-16.06.34:343][732]LogContentBrowser: Creating deferred item: NewWorld
+[2022.12.02-16.07.05:617][609]LogContentBrowser: Attempting asset rename: NewWorld -> Menu
+[2022.12.02-16.07.05:630][609]LogContentBrowser: End creating deferred item NewWorld
+[2022.12.02-16.08.31:107][375]LogSlate: Window 'Save Level As' being destroyed
+[2022.12.02-16.08.31:134][375]LogSlate: Took 0.000383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.02-16.08.31:185][375]LogUObjectHash: Compacting FUObjectHashTables data took  15.13ms
+[2022.12.02-16.08.31:228][375]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Map057A965644E06870FC67F1AEC786AA26.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/Map.umap'
+[2022.12.02-16.08.31:265][375]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Map_BuiltDataD53B6F0E4AF555B54F755192501F4B2C.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/Map_BuiltData.uasset'
+[2022.12.02-16.08.31:278][375]LogFileHelpers: Saving map 'Map' took 0.159
+[2022.12.02-16.08.31:284][375]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.02-16.08.31:284][375]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Map_BuiltData.Map_BuiltData
+[2022.12.02-16.08.31:284][375]LogContentValidation: Display: Validating World /Game/Levels/Map.Map
+[2022.12.02-16.10.48:816][315]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.12.02-16.11.16:335][518]LogSlate: Window 'Project Settings' being destroyed
+[2022.12.02-16.11.40:030][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.12.02-16.11.43:227][814]LogSlate: Window 'Save Content' being destroyed
+[2022.12.02-16.11.43:253][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.12.02-16.11.43:259][814]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Menu773BEBC54B2C87609B538B9AAD4DE3E2.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/Menu.umap'
+[2022.12.02-16.11.43:265][814]LogFileHelpers: Saving map 'Menu' took 0.017
+[2022.12.02-16.11.43:290][814]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Menu.Menu
+[2022.12.02-16.11.43:291][814]Cmd: MAP LOAD FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.02-16.11.43:291][814]LightingResults: New page: Lighting Build
+[2022.12.02-16.11.43:291][814]LoadErrors: New page: Loading map: Menu.umap
+[2022.12.02-16.11.43:295][814]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.12.02-16.11.43:296][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.02-16.11.43:296][814]MapCheck: New page: Map Check
+[2022.12.02-16.11.43:296][814]LightingResults: New page: Lighting Build
+[2022.12.02-16.11.43:302][814]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.02-16.11.43:312][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.12.02-16.11.43:313][814]LogAudio: Display: Audio Device (ID: 1) registered with world 'Menu'.
+[2022.12.02-16.11.43:316][814]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.02-16.11.43:316][814]LogAIModule: Creating AISystem for world Menu
+[2022.12.02-16.11.43:323][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.12.02-16.11.43:330][814]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.02-16.11.43:331][814]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,144ms to complete.
+[2022.12.02-16.11.43:331][814]LogFileHelpers: Loading map 'Menu' took 0.040
+[2022.12.02-16.11.43:347][814]AssetCheck: New page: Asset Save: Menu
+[2022.12.02-16.11.43:348][814]LogContentValidation: Display: Validating World /Game/Levels/Menu.Menu
+[2022.12.02-16.15.17:221][ 74]LogEditorViewport: Clicking Background
+[2022.12.02-16.16.01:381][440]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.12.02-16.16.01:389][440]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.12.02-16.16.09:928][953]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> UI_Menu
+[2022.12.02-16.16.09:939][953]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.12.02-16.16.11:058][ 20]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_Menu.UI_Menu
+[2022.12.02-16.16.11:234][ 20]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 126 classes and 0 folders.
+[2022.12.02-16.16.12:407][ 20]LogSlate: Took 0.000895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.02-16.16.12:442][ 21]LogSlate: Took 0.003900 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.02-16.16.18:015][289]LogSlate: Window 'UI_Menu' being destroyed
+[2022.12.02-16.20.05:264][505]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Karym/Downloads/3d-cubes-floating-5120x2880-9263.jpg)
+[2022.12.02-16.20.05:442][505]LogTexture: Display: Building textures: 3d-cubes-floating-5120x2880-9263 (OODLE_AutoDXT, 5120X2880)
+[2022.12.02-16.20.05:887][505]LogTextureFormatOodle: Display: non-RDO encode 5120 x 2880 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.12.02-16.20.07:005][570]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Images/3d-cubes-floating-5120x2880-9263.3d-cubes-floating-5120x2880-9263
+[2022.12.02-16.20.07:017][570]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2022.12.02-16.21.40:465][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.12.02-16.21.40:467][222]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Menu' took 0.091
+[2022.12.02-16.21.40:468][222]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Images/3d-cubes-floating-5120x2880-9263] ([1] browsable assets)...
+[2022.12.02-16.21.40:473][222]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Images/3d-cubes-floating-5120x2880-9263.3d-cubes-floating-5120x2880-9263]
+[2022.12.02-16.21.40:473][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Images/3d-cubes-floating-5120x2880-9263]
+[2022.12.02-16.21.40:508][222]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/3d-cubes-floating-5120x2880-9263E066443544E814937059478EB6C7E605.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Autosaves/Game/Images/3d-cubes-floating-5120x2880-9263_Auto1.uasset'
+[2022.12.02-16.21.40:508][222]LogFileHelpers: Auto-saving content packages took 0.041
+[2022.12.02-16.40.35:387][820]LogEditorTransaction: Undo Edit A
+[2022.12.02-16.40.50:324][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Menu" FILE="../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_Menu.uasset" SILENT=true
+[2022.12.02-16.40.50:336][712]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/UI_Menu8820C5C74F80DFCB2160E09EF8345C05.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/UI/UI_Menu.uasset'
+[2022.12.02-16.40.50:356][712]AssetCheck: New page: Asset Save: UI_Menu
+[2022.12.02-16.40.50:356][712]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UI_Menu.UI_Menu
+[2022.12.02-16.40.55:417][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.12.02-16.40.56:170][ 13]LogSavePackage: Moving '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/3d-cubes-floating-5120x2880-9263E85D2FF84DA1848409E53FB1E634244E.tmp' to '../../../../../../Users/Karym/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Images/3d-cubes-floating-5120x2880-9263.uasset'
+[2022.12.02-16.40.56:205][ 13]AssetCheck: New page: Asset Save: 3d-cubes-floating-5120x2880-9263
+[2022.12.02-16.40.56:205][ 13]LogContentValidation: Display: Validating Texture2D /Game/Images/3d-cubes-floating-5120x2880-9263.3d-cubes-floating-5120x2880-9263
