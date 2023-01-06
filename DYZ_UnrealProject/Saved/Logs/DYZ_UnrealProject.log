@@ -1963,3 +1963,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.06-15.58.22:075][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.01.06-15.58.22:078][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
 [2023.01.06-15.58.22:126][354]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.01.06-15.58.31:922][749]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.01.06-15.58.31:945][749]LogSavePackage: Moving '../../../../../../Users/zheng/OneDrive/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Menu88DADAB44C8BF7A08B71FBB7D5A29E31.tmp' to '../../../../../../Users/zheng/OneDrive/Documents/GitHub/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/Menu.umap'
+[2023.01.06-15.58.31:977][749]AssetCheck: New page: Asset Save: Menu
+[2023.01.06-15.58.31:977][749]LogContentValidation: Display: Validating World /Game/Levels/Menu.Menu
