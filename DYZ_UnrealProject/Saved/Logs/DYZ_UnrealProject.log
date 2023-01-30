@@ -1293,3 +1293,95 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.01.30-17.10.00:451][469]LogFileHelpers: Saving map 'TurretTest' took 0.142
 [2023.01.30-17.10.00:474][469]AssetCheck: New page: Asset Save: TurretTest
 [2023.01.30-17.10.00:474][469]LogContentValidation: Display: Validating World /Game/Levels/TurretTest.TurretTest
+[2023.01.30-17.13.48:489][579]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.01.30-17.15.56:507][179]BlueprintLog: New page: Compile BP_Turret
+[2023.01.30-17.15.56:594][179]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2023.01.30-17.16.25:936][502]LogSlate: Window 'Delete Variable' being destroyed
+[2023.01.30-17.20.00:633][567]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2023.01.30-17.20.00:732][567]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/TurretTest_Auto4443D8320488995BBBADBD99B6E7DCC09.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Autosaves/Game/Levels/TurretTest_Auto4.umap'
+[2023.01.30-17.20.00:734][567]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TurretTest' took 0.148
+[2023.01.30-17.20.00:734][567]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.148
+[2023.01.30-17.20.00:734][567]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Turret] ([2] browsable assets)...
+[2023.01.30-17.20.00:748][567]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Turret.BP_Turret]
+[2023.01.30-17.20.00:748][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Turret]
+[2023.01.30-17.20.00:798][567]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_Turret_Auto44DB2ED3445F5BE0F29A40F8A85DCF52F.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Autosaves/Game/Blueprints/BP_Turret_Auto4.uasset'
+[2023.01.30-17.20.00:800][567]LogFileHelpers: Auto-saving content packages took 0.066
+[2023.01.30-17.41.15:867][905]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2023.01.30-17.41.15:923][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.01.30-17.41.16:021][905]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/TurretTest25CB529D46CA53CE2865AA83BB0512C3.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/TurretTest.umap'
+[2023.01.30-17.41.16:030][905]LogFileHelpers: Saving map 'TurretTest' took 0.142
+[2023.01.30-17.41.16:072][905]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_Turret0CA859F347D1BA569D8ABC859EBBA2A6.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Turret.uasset'
+[2023.01.30-17.41.16:093][905]AssetCheck: New page: Asset Save: multiple assets
+[2023.01.30-17.41.16:093][905]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Turret.BP_Turret
+[2023.01.30-17.41.16:093][905]LogContentValidation: Display: Validating World /Game/Levels/TurretTest.TurretTest
+[2023.01.30-17.46.04:342][150]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_Turret1AA5B4384AB7C22D68A24AA28800AFA1.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Turret.uasset'
+[2023.01.30-17.46.04:369][150]AssetCheck: New page: Asset Save: BP_Turret
+[2023.01.30-17.46.04:369][150]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Turret.BP_Turret
+[2023.01.30-17.46.14:961][460]BlueprintLog: New page: Compile BP_Turret
+[2023.01.30-17.46.15:058][460]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2023.01.30-17.46.15:674][489]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_TurretF834BEBF41D5EB3EA315E08AA86FB026.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Turret.uasset'
+[2023.01.30-17.46.15:701][489]AssetCheck: New page: Asset Save: BP_Turret
+[2023.01.30-17.46.15:701][489]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Turret.BP_Turret
+[2023.01.30-17.46.18:709][664]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2023.01.30-17.46.18:766][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.01.30-17.46.18:874][664]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/TurretTest5520C9194FD95D513E5BBCBEFDC83F2A.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/TurretTest.umap'
+[2023.01.30-17.46.18:887][664]LogFileHelpers: Saving map 'TurretTest' took 0.159
+[2023.01.30-17.46.18:907][664]AssetCheck: New page: Asset Save: TurretTest
+[2023.01.30-17.46.18:907][664]LogContentValidation: Display: Validating World /Game/Levels/TurretTest.TurretTest
+[2023.01.30-17.46.22:588][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.01.30-17.46.22:684][881]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/TurretTestBFA3C0A6465FE334F25975ABB1F9FE86.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/TurretTest.umap'
+[2023.01.30-17.46.22:712][881]AssetCheck: New page: Asset Save: TurretTest
+[2023.01.30-17.46.22:713][881]LogContentValidation: Display: Validating World /Game/Levels/TurretTest.TurretTest
+[2023.01.30-17.46.22:991][898]LogTemp: Repeating last play command: Selected Viewport
+[2023.01.30-17.46.23:003][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.30-17.46.23:004][898]PIE: New page: PIE session: TurretTest (30 janv. 2023 à 19:46:23)
+[2023.01.30-17.46.23:004][898]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.01.30-17.46.23:034][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029701s)
+[2023.01.30-17.46.23:036][898]LogAIModule: Creating AISystem for world TurretTest
+[2023.01.30-17.46.23:036][898]LogPlayLevel: PIE: World Init took: (0.001944s)
+[2023.01.30-17.46.23:036][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.032035s)
+[2023.01.30-17.46.23:074][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2023.01.30-17.46.23:074][898]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.01.30-17.46.23:075][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.30-17.46.23:075][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.30-17.46.23:075][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.30-17.46.23:075][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.30-17.46.23:075][898]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.30-17.46.23:075][898]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.01.30-17.46.23:075][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.30-17.46.23:075][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.30-17.46.23:075][898]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.30-17.46.23:075][898]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.30-17.46.23:075][898]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.30-17.46.23:076][898]LogAudioMixer: Display: Initializing audio mixer.
+[2023.01.30-17.46.23:087][898]LogAudioMixer: Display: 0: FrontLeft
+[2023.01.30-17.46.23:087][898]LogAudioMixer: Display: 1: FrontRight
+[2023.01.30-17.46.23:096][898]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.01.30-17.46.23:097][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.30-17.46.23:097][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.30-17.46.23:097][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.30-17.46.23:098][898]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.01.30-17.46.23:098][898]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.01.30-17.46.23:098][898]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.01.30-17.46.23:100][898]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.01.30-17.46.23:100][898]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.01.30-17.46.23:100][898]LogInit: FAudioDevice initialized.
+[2023.01.30-17.46.23:100][898]LogAudio: Display: Audio Device (ID: 7) registered with world 'TurretTest'.
+[2023.01.30-17.46.23:115][898]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.01.30-17.46.23:139][898]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.01.30-18.46.23
+[2023.01.30-17.46.23:139][898]LogWorld: Bringing up level for play took: 0.023257
+[2023.01.30-17.46.23:140][898]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.01.30-17.46.23:152][898]PIE: Server logged in
+[2023.01.30-17.46.23:153][898]PIE: Play in editor total start time 0,154 seconds.
+[2023.01.30-17.46.46:024][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.30-17.46.46:024][263]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.01.30-17.46.46:024][263]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.01.30-17.46.46:027][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.30-17.46.46:042][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.30-17.46.46:057][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.30-17.46.46:098][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.30-17.46.46:100][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.30-17.46.46:102][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.01.30-17.46.46:112][263]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2023.01.30-17.46.46:159][264]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.01.30-17.46.58:725][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
