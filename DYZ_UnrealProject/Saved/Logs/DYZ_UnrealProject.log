@@ -1002,3 +1002,1544 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.02-10.00.41:630][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.02.02-10.00.41:633][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
 [2023.02.02-10.00.41:668][888]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.02.02-10.02.59:590][924]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Canon.Canon
+[2023.02.02-10.02.59:651][924]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.02.02-10.02.59:773][924]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.02.02-10.03.00:354][924]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.02-10.03.11:403][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Canon" FILE="../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset" SILENT=true
+[2023.02.02-10.03.11:422][578]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Canon962B85CE48CB23E2A9C894AA6FD3F962.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset'
+[2023.02.02-10.03.11:447][578]AssetCheck: New page: Asset Save: Canon
+[2023.02.02-10.03.11:447][578]LogContentValidation: Display: Validating StaticMesh /Game/Canon.Canon
+[2023.02.02-10.03.15:744][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Canon" FILE="../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset" SILENT=true
+[2023.02.02-10.03.15:751][831]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Canon79D2A51141E340DA808D6EACF95A3A8D.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset'
+[2023.02.02-10.03.15:770][831]AssetCheck: New page: Asset Save: Canon
+[2023.02.02-10.03.15:770][831]LogContentValidation: Display: Validating StaticMesh /Game/Canon.Canon
+[2023.02.02-10.03.18:282][981]LogSlate: Window 'Canon' being destroyed
+[2023.02.02-10.03.18:290][981]LogSlate: Window 'Canon' being destroyed
+[2023.02.02-10.03.18:296][981]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.03.18:297][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.03.19:193][ 33]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.03.19:204][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.03.19:205][ 33]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:03:19)
+[2023.02.02-10.03.19:240][ 33]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.03.19:243][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003585s)
+[2023.02.02-10.03.19:245][ 33]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.03.19:245][ 33]LogPlayLevel: PIE: World Init took: (0.001648s)
+[2023.02.02-10.03.19:245][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005459s)
+[2023.02.02-10.03.19:255][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.02.02-10.03.19:257][ 33]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.02.02-10.03.19:258][ 33]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.03.19:258][ 33]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.03.19:258][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.03.19:258][ 33]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.03.19:258][ 33]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.03.19:258][ 33]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.03.19:258][ 33]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.03.19:258][ 33]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.03.19:258][ 33]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.03.19:258][ 33]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.03.19:258][ 33]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.03.19:258][ 33]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.03.19:269][ 33]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.03.19:269][ 33]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.03.19:279][ 33]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.03.19:279][ 33]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.03.19:279][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.03.19:279][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.03.19:280][ 33]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.03.19:280][ 33]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.03.19:280][ 33]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.03.19:281][ 33]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.03.19:281][ 33]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.03.19:281][ 33]LogInit: FAudioDevice initialized.
+[2023.02.02-10.03.19:281][ 33]LogAudio: Display: Audio Device (ID: 3) registered with world 'TurretTest'.
+[2023.02.02-10.03.19:290][ 33]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.03.19:292][ 33]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.03.19
+[2023.02.02-10.03.19:292][ 33]LogWorld: Bringing up level for play took: 0.001119
+[2023.02.02-10.03.19:293][ 33]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.02.02-10.03.19:296][ 33]PIE: Server logged in
+[2023.02.02-10.03.19:297][ 33]PIE: Play in editor total start time 0,097 seconds.
+[2023.02.02-10.03.29:894][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.03.29:895][666]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.03.29:895][666]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.03.29:895][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.03.29:908][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.03.29:917][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.03.29:925][666]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-10.03.29:925][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.03.29:926][666]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.03.29:929][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.03.29:931][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.02.02-10.03.29:966][667]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.02.02-10.03.33:293][864]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Canon.Canon
+[2023.02.02-10.03.41:164][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Canon" FILE="../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset" SILENT=true
+[2023.02.02-10.03.41:173][306]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Canon057984E24DB9EB18593B828970DC09F6.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset'
+[2023.02.02-10.03.41:190][306]AssetCheck: New page: Asset Save: Canon
+[2023.02.02-10.03.41:191][306]LogContentValidation: Display: Validating StaticMesh /Game/Canon.Canon
+[2023.02.02-10.03.44:108][481]LogSlate: Window 'Canon' being destroyed
+[2023.02.02-10.03.44:115][481]LogSlate: Window 'Canon' being destroyed
+[2023.02.02-10.03.44:120][481]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.03.44:120][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.03.45:607][568]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.03.45:618][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.03.45:618][568]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:03:45)
+[2023.02.02-10.03.45:618][568]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.03.45:622][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003317s)
+[2023.02.02-10.03.45:623][568]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.03.45:623][568]LogPlayLevel: PIE: World Init took: (0.001569s)
+[2023.02.02-10.03.45:623][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005071s)
+[2023.02.02-10.03.45:632][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.02.02-10.03.45:635][568]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.02.02-10.03.45:635][568]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.03.45:635][568]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.03.45:635][568]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.03.45:635][568]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.03.45:635][568]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.03.45:635][568]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.03.45:635][568]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.03.45:635][568]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.03.45:636][568]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.03.45:636][568]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.03.45:636][568]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.03.45:636][568]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.03.45:651][568]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.03.45:651][568]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.03.45:661][568]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.03.45:662][568]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.03.45:662][568]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.03.45:662][568]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.03.45:662][568]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.03.45:662][568]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.03.45:662][568]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.03.45:664][568]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.03.45:664][568]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.03.45:664][568]LogInit: FAudioDevice initialized.
+[2023.02.02-10.03.45:664][568]LogAudio: Display: Audio Device (ID: 4) registered with world 'TurretTest'.
+[2023.02.02-10.03.45:673][568]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.03.45:675][568]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.03.45
+[2023.02.02-10.03.45:675][568]LogWorld: Bringing up level for play took: 0.001065
+[2023.02.02-10.03.45:676][568]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2023.02.02-10.03.45:678][568]PIE: Server logged in
+[2023.02.02-10.03.45:679][568]PIE: Play in editor total start time 0,066 seconds.
+[2023.02.02-10.03.52:474][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.03.52:475][974]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.03.52:475][974]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.03.52:475][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.03.52:487][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.03.52:496][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.03.52:503][974]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-10.03.52:503][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.03.52:505][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.03.52:507][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.03.52:509][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.02.02-10.03.52:582][976]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.02.02-10.04.00:503][449]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Canon.Canon
+[2023.02.02-10.04.18:090][468]LogRenderer: Reallocating scene render targets to support 1432x912 Format 10 NumSamples 1 (Frame:1024).
+[2023.02.02-10.04.18:267][478]LogSlate: Window 'Canon' being destroyed
+[2023.02.02-10.04.24:295][838]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Canon" FILE="../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset" SILENT=true
+[2023.02.02-10.04.24:303][838]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Canon84CE11C443069D747C6CF59DAB46BA6C.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset'
+[2023.02.02-10.04.24:317][838]AssetCheck: New page: Asset Save: Canon
+[2023.02.02-10.04.24:317][838]LogContentValidation: Display: Validating StaticMesh /Game/Canon.Canon
+[2023.02.02-10.04.28:529][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Canon" FILE="../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset" SILENT=true
+[2023.02.02-10.04.28:537][ 90]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/CanonB78DD8D245C3AC1C0FF675B6F8BB1889.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset'
+[2023.02.02-10.04.28:552][ 90]AssetCheck: New page: Asset Save: Canon
+[2023.02.02-10.04.28:552][ 90]LogContentValidation: Display: Validating StaticMesh /Game/Canon.Canon
+[2023.02.02-10.04.31:677][277]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.04.31:688][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.04.31:688][277]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:04:31)
+[2023.02.02-10.04.31:738][277]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.04.31:742][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003609s)
+[2023.02.02-10.04.31:743][277]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.04.31:743][277]LogPlayLevel: PIE: World Init took: (0.001481s)
+[2023.02.02-10.04.31:744][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005306s)
+[2023.02.02-10.04.31:751][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.02.02-10.04.31:755][277]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.02.02-10.04.31:755][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.04.31:755][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.04.31:755][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.04.31:755][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.04.31:755][277]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.04.31:755][277]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.04.31:755][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.04.31:755][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.04.31:755][277]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.04.31:755][277]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.04.31:755][277]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.04.31:755][277]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.04.31:767][277]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.04.31:767][277]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.04.31:776][277]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.04.31:776][277]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.04.31:776][277]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.04.31:776][277]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.04.31:777][277]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.04.31:777][277]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.04.31:777][277]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.04.31:778][277]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.04.31:778][277]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.04.31:778][277]LogInit: FAudioDevice initialized.
+[2023.02.02-10.04.31:779][277]LogAudio: Display: Audio Device (ID: 5) registered with world 'TurretTest'.
+[2023.02.02-10.04.31:792][277]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.04.31:794][277]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.04.31
+[2023.02.02-10.04.31:794][277]LogWorld: Bringing up level for play took: 0.001199
+[2023.02.02-10.04.31:794][277]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.02.02-10.04.31:798][277]PIE: Server logged in
+[2023.02.02-10.04.31:799][277]PIE: Play in editor total start time 0,115 seconds.
+[2023.02.02-10.04.35:563][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.04.35:563][501]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.04.35:563][501]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.04.35:564][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.04.35:573][501]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.04.35:583][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.04.35:589][501]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-10.04.35:590][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.04.35:591][501]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.04.35:593][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.04.35:595][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.02.02-10.04.35:668][503]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.02.02-10.04.37:689][619]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Turret.BP_Turret
+[2023.02.02-10.04.37:957][619]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2023.02.02-10.04.39:325][619]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.02-10.04.40:163][666]LogHttp: Warning: 000002742FB54800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC95D30EB-4354-E424-4E6D-4487830DCD41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e430b75b455f62b377d540a014d6304f%7C1645334abb114ec99052909cc0af0c96%7Cbacf4db0-1f02-4f94-a9c6-566710340830&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.02-10.04.40:164][666]LogHttp: Warning: 000002742FB54800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.02.02-10.04.40:164][666]LogHttp: Warning: 000002742FB54800: libcurl info message cache 0 (Connection 0 seems to be dead!)
+[2023.02.02-10.04.40:164][666]LogHttp: Warning: 000002742FB54800: libcurl info message cache 1 (Closing connection 0)
+[2023.02.02-10.04.40:164][666]LogHttp: Warning: 000002742FB54800: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.02.02-10.04.40:164][666]LogHttp: Warning: 000002742FB54800: libcurl info message cache 3 (Closing connection 1)
+[2023.02.02-10.04.40:164][666]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC95D30EB-4354-E424-4E6D-4487830DCD41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e430b75b455f62b377d540a014d6304f%7C1645334abb114ec99052909cc0af0c96%7Cbacf4db0-1f02-4f94-a9c6-566710340830&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.02.02-10.04.40:872][708]BlueprintLog: New page: Compile BP_Turret
+[2023.02.02-10.04.40:943][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.02.02-10.04.42:292][785]BlueprintLog: New page: Compile BP_Turret
+[2023.02.02-10.04.42:366][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.02.02-10.04.43:574][851]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.04.43:587][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.04.43:588][851]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:04:43)
+[2023.02.02-10.04.43:588][851]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.04.43:591][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003305s)
+[2023.02.02-10.04.43:592][851]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.04.43:593][851]LogPlayLevel: PIE: World Init took: (0.001546s)
+[2023.02.02-10.04.43:593][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005031s)
+[2023.02.02-10.04.43:626][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.02.02-10.04.43:627][851]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.02.02-10.04.43:627][851]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.04.43:627][851]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.04.43:627][851]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.04.43:627][851]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.04.43:627][851]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.04.43:627][851]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.04.43:627][851]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.04.43:627][851]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.04.43:628][851]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.04.43:628][851]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.04.43:628][851]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.04.43:628][851]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.04.43:639][851]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.04.43:639][851]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.04.43:647][851]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.04.43:647][851]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.04.43:647][851]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.04.43:648][851]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.04.43:648][851]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.04.43:648][851]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.04.43:648][851]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.04.43:649][851]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.04.43:649][851]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.04.43:649][851]LogInit: FAudioDevice initialized.
+[2023.02.02-10.04.43:649][851]LogAudio: Display: Audio Device (ID: 6) registered with world 'TurretTest'.
+[2023.02.02-10.04.43:659][851]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.04.43:661][851]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.04.43
+[2023.02.02-10.04.43:661][851]LogWorld: Bringing up level for play took: 0.001097
+[2023.02.02-10.04.43:661][851]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.02.02-10.04.43:664][851]PIE: Server logged in
+[2023.02.02-10.04.43:665][851]PIE: Play in editor total start time 0,082 seconds.
+[2023.02.02-10.04.50:373][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.04.50:373][251]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.04.50:373][251]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.04.50:374][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.04.50:386][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.04.50:400][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.04.50:426][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-10.04.50:426][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.04.50:428][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.04.50:430][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.04.50:434][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.02.02-10.04.50:471][252]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.02.02-10.04.59:156][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Canon" FILE="../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset" SILENT=true
+[2023.02.02-10.04.59:164][770]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/CanonC2BF7D834E1CEF236076BAB16F1B54EE.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset'
+[2023.02.02-10.04.59:178][770]AssetCheck: New page: Asset Save: Canon
+[2023.02.02-10.04.59:178][770]LogContentValidation: Display: Validating StaticMesh /Game/Canon.Canon
+[2023.02.02-10.05.03:684][ 39]BlueprintLog: New page: Compile BP_Turret
+[2023.02.02-10.05.03:754][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2023.02.02-10.05.13:133][586]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.05.13:145][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.05.13:145][586]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:05:13)
+[2023.02.02-10.05.13:145][586]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.05.13:149][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003513s)
+[2023.02.02-10.05.13:150][586]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.05.13:151][586]LogPlayLevel: PIE: World Init took: (0.001773s)
+[2023.02.02-10.05.13:151][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005507s)
+[2023.02.02-10.05.13:179][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2023.02.02-10.05.13:180][586]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.02.02-10.05.13:180][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.05.13:180][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.05.13:180][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.05.13:180][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.05.13:180][586]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.05.13:180][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.05.13:180][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.05.13:180][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.05.13:181][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.05.13:181][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.05.13:181][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.05.13:181][586]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.05.13:193][586]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.05.13:193][586]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.05.13:201][586]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.05.13:202][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.05.13:202][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.05.13:202][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.05.13:202][586]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.05.13:202][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.05.13:202][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.05.13:204][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.05.13:204][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.05.13:204][586]LogInit: FAudioDevice initialized.
+[2023.02.02-10.05.13:204][586]LogAudio: Display: Audio Device (ID: 7) registered with world 'TurretTest'.
+[2023.02.02-10.05.13:215][586]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.05.13:216][586]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.05.13
+[2023.02.02-10.05.13:217][586]LogWorld: Bringing up level for play took: 0.001259
+[2023.02.02-10.05.13:217][586]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.02.02-10.05.13:220][586]PIE: Server logged in
+[2023.02.02-10.05.13:221][586]PIE: Play in editor total start time 0,08 seconds.
+[2023.02.02-10.05.25:013][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.05.25:013][290]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.05.25:013][290]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.05.25:014][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.05.25:021][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.05.25:032][290]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.05.25:056][290]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-10.05.25:057][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.05.25:058][290]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.05.25:060][290]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.05.25:064][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.02.02-10.05.25:100][291]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.02.02-10.05.40:169][191]LogHttp: Warning: 000002745CDD4800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC95D30EB-4354-E424-4E6D-4487830DCD41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e430b75b455f62b377d540a014d6304f%7C1645334abb114ec99052909cc0af0c96%7Cbacf4db0-1f02-4f94-a9c6-566710340830&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.02-10.05.40:169][191]LogHttp: Warning: 000002745CDD4800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.02.02-10.05.40:169][191]LogHttp: Warning: 000002745CDD4800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.02.02-10.05.40:169][191]LogHttp: Warning: 000002745CDD4800: libcurl info message cache 1 (Closing connection 2)
+[2023.02.02-10.05.40:185][192]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC95D30EB-4354-E424-4E6D-4487830DCD41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e430b75b455f62b377d540a014d6304f%7C1645334abb114ec99052909cc0af0c96%7Cbacf4db0-1f02-4f94-a9c6-566710340830&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.02.02-10.06.05:010][648]BlueprintLog: New page: Compile BP_Turret
+[2023.02.02-10.06.05:118][648]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2023.02.02-10.06.06:576][729]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.06.06:588][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.06.06:588][729]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:06:06)
+[2023.02.02-10.06.06:588][729]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.06.06:591][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003253s)
+[2023.02.02-10.06.06:592][729]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.06.06:593][729]LogPlayLevel: PIE: World Init took: (0.001487s)
+[2023.02.02-10.06.06:593][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.004922s)
+[2023.02.02-10.06.06:629][729]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2023.02.02-10.06.06:630][729]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.02.02-10.06.06:631][729]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.06.06:631][729]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.06.06:631][729]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.06.06:631][729]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.06.06:631][729]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.06.06:631][729]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.06.06:631][729]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.06.06:631][729]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.06.06:631][729]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.06.06:631][729]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.06.06:631][729]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.06.06:631][729]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.06.06:642][729]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.06.06:642][729]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.06.06:651][729]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.06.06:651][729]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.06.06:651][729]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.06.06:651][729]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.06.06:652][729]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.06.06:652][729]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.06.06:652][729]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.06.06:653][729]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.06.06:653][729]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.06.06:653][729]LogInit: FAudioDevice initialized.
+[2023.02.02-10.06.06:653][729]LogAudio: Display: Audio Device (ID: 8) registered with world 'TurretTest'.
+[2023.02.02-10.06.06:661][729]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.06.06:663][729]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.06.06
+[2023.02.02-10.06.06:663][729]LogWorld: Bringing up level for play took: 0.001043
+[2023.02.02-10.06.06:663][729]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.02.02-10.06.06:666][729]PIE: Server logged in
+[2023.02.02-10.06.06:667][729]PIE: Play in editor total start time 0,084 seconds.
+[2023.02.02-10.06.14:803][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.06.14:803][215]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.06.14:803][215]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.06.14:804][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.06.14:811][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.06.14:823][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.06.14:851][215]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-10.06.14:851][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.06.14:853][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.06.14:855][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.06.14:860][215]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2023.02.02-10.06.14:897][216]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.02.02-10.06.21:503][599]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2DAC30283F13BB43D04F3F531258694090875ED0), compiling. 
+[2023.02.02-10.06.21:508][599]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\EngineMaterials\HighResolutionScreenshotMaskFunction.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2023.02.02-10.06.21:508][599]LogMaterial: Display: 	SceneTexture expressions cannot be used in opaque materials
+[2023.02.02-10.06.40:177][708]LogHttp: Warning: 000002748152CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC95D30EB-4354-E424-4E6D-4487830DCD41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e430b75b455f62b377d540a014d6304f%7C1645334abb114ec99052909cc0af0c96%7Cbacf4db0-1f02-4f94-a9c6-566710340830&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.02-10.06.40:177][708]LogHttp: Warning: 000002748152CF00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.02.02-10.06.40:177][708]LogHttp: Warning: 000002748152CF00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.02.02-10.06.40:177][708]LogHttp: Warning: 000002748152CF00: libcurl info message cache 1 (Closing connection 3)
+[2023.02.02-10.06.40:177][708]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC95D30EB-4354-E424-4E6D-4487830DCD41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e430b75b455f62b377d540a014d6304f%7C1645334abb114ec99052909cc0af0c96%7Cbacf4db0-1f02-4f94-a9c6-566710340830&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.02.02-10.06.46:492][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Canon" FILE="../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset" SILENT=true
+[2023.02.02-10.06.46:500][ 84]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/CanonEE2073BB42695E90383A7EAAB1576DE9.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset'
+[2023.02.02-10.06.46:521][ 84]AssetCheck: New page: Asset Save: Canon
+[2023.02.02-10.06.46:522][ 84]LogContentValidation: Display: Validating StaticMesh /Game/Canon.Canon
+[2023.02.02-10.06.46:771][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Canon" FILE="../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset" SILENT=true
+[2023.02.02-10.06.46:779][ 98]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Canon4D77249142527E3DC8EF699C8DEFC885.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset'
+[2023.02.02-10.06.46:796][ 98]AssetCheck: New page: Asset Save: Canon
+[2023.02.02-10.06.46:796][ 98]LogContentValidation: Display: Validating StaticMesh /Game/Canon.Canon
+[2023.02.02-10.07.40:165][268]LogHttp: Warning: 0000027421D74100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC95D30EB-4354-E424-4E6D-4487830DCD41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e430b75b455f62b377d540a014d6304f%7C1645334abb114ec99052909cc0af0c96%7Cbacf4db0-1f02-4f94-a9c6-566710340830&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.02-10.07.40:165][268]LogHttp: Warning: 0000027421D74100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.02.02-10.07.40:165][268]LogHttp: Warning: 0000027421D74100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.02.02-10.07.40:165][268]LogHttp: Warning: 0000027421D74100: libcurl info message cache 1 (Closing connection 4)
+[2023.02.02-10.07.40:165][268]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC95D30EB-4354-E424-4E6D-4487830DCD41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e430b75b455f62b377d540a014d6304f%7C1645334abb114ec99052909cc0af0c96%7Cbacf4db0-1f02-4f94-a9c6-566710340830&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.02.02-10.07.54:214][110]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.07.54:226][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.07.54:226][110]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:07:54)
+[2023.02.02-10.07.54:227][110]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.07.54:231][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004245s)
+[2023.02.02-10.07.54:232][110]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.07.54:232][110]LogPlayLevel: PIE: World Init took: (0.001971s)
+[2023.02.02-10.07.54:233][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.006398s)
+[2023.02.02-10.07.54:271][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2023.02.02-10.07.54:277][110]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.02.02-10.07.54:277][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.07.54:277][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.07.54:277][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.07.54:277][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.07.54:277][110]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.07.54:277][110]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.07.54:277][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.07.54:277][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.07.54:278][110]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.07.54:278][110]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.07.54:278][110]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.07.54:278][110]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.07.54:289][110]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.07.54:289][110]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.07.54:298][110]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.07.54:298][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.07.54:298][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.07.54:298][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.07.54:300][110]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.07.54:300][110]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.07.54:300][110]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.07.54:301][110]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.07.54:301][110]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.07.54:301][110]LogInit: FAudioDevice initialized.
+[2023.02.02-10.07.54:301][110]LogAudio: Display: Audio Device (ID: 9) registered with world 'TurretTest'.
+[2023.02.02-10.07.54:310][110]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.07.54:312][110]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.07.54
+[2023.02.02-10.07.54:312][110]LogWorld: Bringing up level for play took: 0.001201
+[2023.02.02-10.07.54:312][110]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2023.02.02-10.07.54:316][110]PIE: Server logged in
+[2023.02.02-10.07.54:317][110]PIE: Play in editor total start time 0,095 seconds.
+[2023.02.02-10.08.01:924][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.08.01:924][564]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.08.01:924][564]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.08.01:924][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.08.01:934][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.08.01:947][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.08.01:977][564]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-10.08.01:977][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.08.01:978][564]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.08.01:981][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.08.01:986][564]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2023.02.02-10.08.02:027][565]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.02.02-10.08.09:194][982]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.02.02-10.08.20:075][593]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_ProjectileC32856BA4A52E4A9367C5DAEE13B4C9C.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Projectile.uasset'
+[2023.02.02-10.08.20:105][593]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.02.02-10.08.20:105][593]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.02.02-10.08.21:206][659]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.08.21:217][659]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.02-10.08.21:223][659]LogPlayLevel: [PlayLevel] Compiling BP_Projectile before play...
+[2023.02.02-10.08.21:315][659]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2023.02.02-10.08.21:315][659]LogPlayLevel: PlayLevel: Blueprint regeneration took 98 ms (1 blueprints)
+[2023.02.02-10.08.21:316][659]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:08:21)
+[2023.02.02-10.08.21:317][659]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.08.21:321][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003310s)
+[2023.02.02-10.08.21:322][659]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.08.21:323][659]LogPlayLevel: PIE: World Init took: (0.001869s)
+[2023.02.02-10.08.21:323][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005388s)
+[2023.02.02-10.08.21:366][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2023.02.02-10.08.21:366][659]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.02.02-10.08.21:366][659]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.08.21:366][659]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.08.21:366][659]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.08.21:366][659]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.08.21:366][659]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.08.21:366][659]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.08.21:367][659]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.08.21:367][659]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.08.21:367][659]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.08.21:367][659]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.08.21:367][659]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.08.21:367][659]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.08.21:378][659]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.08.21:378][659]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.08.21:386][659]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.08.21:387][659]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.08.21:387][659]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.08.21:387][659]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.08.21:387][659]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.08.21:387][659]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.08.21:387][659]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.08.21:389][659]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.08.21:389][659]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.08.21:389][659]LogInit: FAudioDevice initialized.
+[2023.02.02-10.08.21:389][659]LogAudio: Display: Audio Device (ID: 10) registered with world 'TurretTest'.
+[2023.02.02-10.08.21:396][659]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.08.21:397][659]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.08.21
+[2023.02.02-10.08.21:398][659]LogWorld: Bringing up level for play took: 0.001085
+[2023.02.02-10.08.21:398][659]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2023.02.02-10.08.21:401][659]PIE: Server logged in
+[2023.02.02-10.08.21:402][659]PIE: Play in editor total start time 0,189 seconds.
+[2023.02.02-10.08.28:934][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.08.28:934][108]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.08.28:935][108]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.08.28:935][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.08.28:945][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.08.28:959][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.08.28:995][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.08.28:996][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.08.28:997][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.08.29:004][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2023.02.02-10.08.29:046][109]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.02.02-10.08.32:799][331]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.08.32:810][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.08.32:810][331]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:08:32)
+[2023.02.02-10.08.32:810][331]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.08.32:813][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003404s)
+[2023.02.02-10.08.32:815][331]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.08.32:815][331]LogPlayLevel: PIE: World Init took: (0.001746s)
+[2023.02.02-10.08.32:815][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005328s)
+[2023.02.02-10.08.32:853][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2023.02.02-10.08.32:854][331]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.02.02-10.08.32:854][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.08.32:854][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.08.32:854][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.08.32:854][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.08.32:854][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.08.32:854][331]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.08.32:854][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.08.32:854][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.08.32:855][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.08.32:855][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.08.32:855][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.08.32:855][331]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.08.32:866][331]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.08.32:866][331]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.08.32:874][331]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.08.32:875][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.08.32:875][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.08.32:875][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.08.32:875][331]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.08.32:875][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.08.32:875][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.08.32:877][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.08.32:877][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.08.32:877][331]LogInit: FAudioDevice initialized.
+[2023.02.02-10.08.32:877][331]LogAudio: Display: Audio Device (ID: 11) registered with world 'TurretTest'.
+[2023.02.02-10.08.32:887][331]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.08.32:889][331]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.08.32
+[2023.02.02-10.08.32:889][331]LogWorld: Bringing up level for play took: 0.001052
+[2023.02.02-10.08.32:890][331]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2023.02.02-10.08.32:893][331]PIE: Server logged in
+[2023.02.02-10.08.32:893][331]PIE: Play in editor total start time 0,088 seconds.
+[2023.02.02-10.08.40:185][769]LogHttp: Warning: 00000274ABA36400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC95D30EB-4354-E424-4E6D-4487830DCD41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e430b75b455f62b377d540a014d6304f%7C1645334abb114ec99052909cc0af0c96%7Cbacf4db0-1f02-4f94-a9c6-566710340830&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.02-10.08.40:185][769]LogHttp: Warning: 00000274ABA36400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.02.02-10.08.40:185][769]LogHttp: Warning: 00000274ABA36400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.02.02-10.08.40:185][769]LogHttp: Warning: 00000274ABA36400: libcurl info message cache 1 (Closing connection 5)
+[2023.02.02-10.08.40:202][770]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC95D30EB-4354-E424-4E6D-4487830DCD41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e430b75b455f62b377d540a014d6304f%7C1645334abb114ec99052909cc0af0c96%7Cbacf4db0-1f02-4f94-a9c6-566710340830&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.02.02-10.08.43:313][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.08.43:313][954]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.08.43:314][954]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.08.43:314][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.08.43:325][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.08.43:340][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.08.43:377][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-10.08.43:377][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.08.43:378][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.08.43:380][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.08.43:385][954]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2023.02.02-10.08.43:424][955]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.02.02-10.09.28:818][654]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.09.28:829][654]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.02-10.09.28:834][654]LogPlayLevel: [PlayLevel] Compiling BP_Projectile before play...
+[2023.02.02-10.09.28:925][654]LogUObjectHash: Compacting FUObjectHashTables data took   7.74ms
+[2023.02.02-10.09.28:926][654]LogPlayLevel: PlayLevel: Blueprint regeneration took 96 ms (1 blueprints)
+[2023.02.02-10.09.28:926][654]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:09:28)
+[2023.02.02-10.09.28:926][654]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.09.28:929][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003399s)
+[2023.02.02-10.09.28:931][654]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.09.28:931][654]LogPlayLevel: PIE: World Init took: (0.001785s)
+[2023.02.02-10.09.28:931][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005409s)
+[2023.02.02-10.09.28:970][654]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2023.02.02-10.09.28:970][654]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.02.02-10.09.28:970][654]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.09.28:970][654]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.09.28:970][654]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.09.28:970][654]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.09.28:970][654]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.09.28:971][654]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.09.28:971][654]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.09.28:971][654]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.09.28:971][654]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.09.28:971][654]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.09.28:971][654]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.09.28:971][654]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.09.28:982][654]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.09.28:982][654]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.09.28:991][654]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.09.28:992][654]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.09.28:992][654]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.09.28:992][654]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.09.28:992][654]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.09.28:992][654]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.09.28:992][654]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.09.28:994][654]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.09.28:994][654]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.09.28:994][654]LogInit: FAudioDevice initialized.
+[2023.02.02-10.09.28:994][654]LogAudio: Display: Audio Device (ID: 12) registered with world 'TurretTest'.
+[2023.02.02-10.09.29:004][654]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.09.29:005][654]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.09.29
+[2023.02.02-10.09.29:006][654]LogWorld: Bringing up level for play took: 0.001177
+[2023.02.02-10.09.29:006][654]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2023.02.02-10.09.29:009][654]PIE: Server logged in
+[2023.02.02-10.09.29:010][654]PIE: Play in editor total start time 0,186 seconds.
+[2023.02.02-10.09.37:376][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.09.37:376][153]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.09.37:376][153]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.09.37:376][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.09.37:389][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.09.37:403][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.09.37:439][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.09.37:439][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.09.37:440][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.09.37:447][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2023.02.02-10.09.37:488][154]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.02.02-10.09.40:179][308]LogHttp: Warning: 00000274ABED2400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC95D30EB-4354-E424-4E6D-4487830DCD41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e430b75b455f62b377d540a014d6304f%7C1645334abb114ec99052909cc0af0c96%7Cbacf4db0-1f02-4f94-a9c6-566710340830&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.02-10.09.40:179][308]LogHttp: Warning: 00000274ABED2400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.02.02-10.09.40:179][308]LogHttp: Warning: 00000274ABED2400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.02.02-10.09.40:179][308]LogHttp: Warning: 00000274ABED2400: libcurl info message cache 1 (Closing connection 6)
+[2023.02.02-10.09.40:179][308]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC95D30EB-4354-E424-4E6D-4487830DCD41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e430b75b455f62b377d540a014d6304f%7C1645334abb114ec99052909cc0af0c96%7Cbacf4db0-1f02-4f94-a9c6-566710340830&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.02.02-10.10.38:867][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Canon" FILE="../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset" SILENT=true
+[2023.02.02-10.10.38:875][817]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Canon1FD4CC94410FB4C6430A79966F7AD2C5.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset'
+[2023.02.02-10.10.38:898][817]AssetCheck: New page: Asset Save: Canon
+[2023.02.02-10.10.38:898][817]LogContentValidation: Display: Validating StaticMesh /Game/Canon.Canon
+[2023.02.02-10.10.40:163][894]LogHttp: Warning: 0000027488EC2B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC95D30EB-4354-E424-4E6D-4487830DCD41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e430b75b455f62b377d540a014d6304f%7C1645334abb114ec99052909cc0af0c96%7Cbacf4db0-1f02-4f94-a9c6-566710340830&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.02-10.10.40:163][894]LogHttp: Warning: 0000027488EC2B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.02.02-10.10.40:163][894]LogHttp: Warning: 0000027488EC2B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.02.02-10.10.40:163][894]LogHttp: Warning: 0000027488EC2B00: libcurl info message cache 1 (Closing connection 7)
+[2023.02.02-10.10.40:163][894]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC95D30EB-4354-E424-4E6D-4487830DCD41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e430b75b455f62b377d540a014d6304f%7C1645334abb114ec99052909cc0af0c96%7Cbacf4db0-1f02-4f94-a9c6-566710340830&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.02.02-10.10.59:794][ 65]LogEditorTransaction: Undo Translate Socket
+[2023.02.02-10.11.28:017][736]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.11.28:029][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.11.28:029][736]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:11:28)
+[2023.02.02-10.11.28:029][736]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.11.28:033][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003650s)
+[2023.02.02-10.11.28:034][736]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.11.28:035][736]LogPlayLevel: PIE: World Init took: (0.001959s)
+[2023.02.02-10.11.28:035][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005791s)
+[2023.02.02-10.11.28:077][736]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2023.02.02-10.11.28:078][736]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.02.02-10.11.28:078][736]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.11.28:078][736]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.11.28:078][736]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.11.28:078][736]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.11.28:078][736]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.11.28:078][736]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.11.28:078][736]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.11.28:078][736]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.11.28:079][736]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.11.28:079][736]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.11.28:079][736]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.11.28:079][736]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.11.28:090][736]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.11.28:090][736]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.11.28:098][736]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.11.28:099][736]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.11.28:099][736]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.11.28:099][736]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.11.28:099][736]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.11.28:099][736]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.11.28:099][736]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.11.28:101][736]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.11.28:101][736]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.11.28:101][736]LogInit: FAudioDevice initialized.
+[2023.02.02-10.11.28:101][736]LogAudio: Display: Audio Device (ID: 13) registered with world 'TurretTest'.
+[2023.02.02-10.11.28:114][736]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.11.28:115][736]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.11.28
+[2023.02.02-10.11.28:116][736]LogWorld: Bringing up level for play took: 0.001265
+[2023.02.02-10.11.28:116][736]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.02.02-10.11.28:120][736]PIE: Server logged in
+[2023.02.02-10.11.28:121][736]PIE: Play in editor total start time 0,097 seconds.
+[2023.02.02-10.11.40:185][458]LogHttp: Warning: 00000274B5176B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC95D30EB-4354-E424-4E6D-4487830DCD41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e430b75b455f62b377d540a014d6304f%7C1645334abb114ec99052909cc0af0c96%7Cbacf4db0-1f02-4f94-a9c6-566710340830&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.02-10.11.40:185][458]LogHttp: Warning: 00000274B5176B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.02.02-10.11.40:185][458]LogHttp: Warning: 00000274B5176B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.02.02-10.11.40:185][458]LogHttp: Warning: 00000274B5176B00: libcurl info message cache 1 (Closing connection 8)
+[2023.02.02-10.11.40:185][458]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC95D30EB-4354-E424-4E6D-4487830DCD41%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=e430b75b455f62b377d540a014d6304f%7C1645334abb114ec99052909cc0af0c96%7Cbacf4db0-1f02-4f94-a9c6-566710340830&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.02.02-10.11.47:546][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.11.47:546][897]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.11.47:546][897]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.11.47:547][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.11.47:559][897]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.11.47:572][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.11.47:608][897]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-10.11.47:608][897]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.11.47:610][897]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.11.47:612][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.11.47:617][897]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2023.02.02-10.11.47:659][898]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.02.02-10.12.15:272][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2023.02.02-10.12.15:289][230]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/TurretTest_Auto140825F444595FE0EE83B308445C8C1AF.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Autosaves/Game/Levels/TurretTest_Auto1.umap'
+[2023.02.02-10.12.15:291][230]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/TurretTest' took 0.058
+[2023.02.02-10.12.15:291][230]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2023.02.02-10.12.15:291][230]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Turret] ([2] browsable assets)...
+[2023.02.02-10.12.15:305][230]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Turret.BP_Turret]
+[2023.02.02-10.12.15:305][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Turret]
+[2023.02.02-10.12.15:373][230]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_Turret_Auto19C14D1FA4690B8808408DB84DF6ED6B6.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Autosaves/Game/Blueprints/BP_Turret_Auto1.uasset'
+[2023.02.02-10.12.15:375][230]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Projectile] ([2] browsable assets)...
+[2023.02.02-10.12.15:387][230]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile]
+[2023.02.02-10.12.15:387][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Projectile]
+[2023.02.02-10.12.15:398][230]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_Projectile_Auto1031E09CF4AF1AE0891BB82BCA8894E73.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Autosaves/Game/Blueprints/BP_Projectile_Auto1.uasset'
+[2023.02.02-10.12.15:399][230]LogFileHelpers: Auto-saving content packages took 0.108
+[2023.02.02-10.13.45:714][ 24]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_Turret952545ED4E9D3B83C3788CA6D0341B2D.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Turret.uasset'
+[2023.02.02-10.13.45:739][ 24]AssetCheck: New page: Asset Save: BP_Turret
+[2023.02.02-10.13.45:739][ 24]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Turret.BP_Turret
+[2023.02.02-10.13.47:443][125]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.13.47:455][125]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.02-10.13.47:456][125]LogPlayLevel: [PlayLevel] Compiling BP_Turret before play...
+[2023.02.02-10.13.47:572][125]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2023.02.02-10.13.47:574][125]LogPlayLevel: PlayLevel: Blueprint regeneration took 119 ms (1 blueprints)
+[2023.02.02-10.13.47:574][125]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:13:47)
+[2023.02.02-10.13.47:601][125]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.13.47:605][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003292s)
+[2023.02.02-10.13.47:606][125]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.13.47:606][125]LogPlayLevel: PIE: World Init took: (0.001581s)
+[2023.02.02-10.13.47:606][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005118s)
+[2023.02.02-10.13.47:646][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2023.02.02-10.13.47:646][125]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.02.02-10.13.47:646][125]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.13.47:646][125]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.13.47:646][125]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.13.47:646][125]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.13.47:646][125]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.13.47:646][125]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.13.47:646][125]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.13.47:646][125]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.13.47:647][125]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.13.47:647][125]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.13.47:647][125]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.13.47:647][125]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.13.47:658][125]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.13.47:658][125]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.13.47:667][125]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.13.47:668][125]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.13.47:668][125]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.13.47:668][125]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.13.47:668][125]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.13.47:668][125]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.13.47:668][125]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.13.47:670][125]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.13.47:670][125]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.13.47:670][125]LogInit: FAudioDevice initialized.
+[2023.02.02-10.13.47:670][125]LogAudio: Display: Audio Device (ID: 14) registered with world 'TurretTest'.
+[2023.02.02-10.13.47:683][125]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.13.47:685][125]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.13.47
+[2023.02.02-10.13.47:686][125]LogWorld: Bringing up level for play took: 0.001299
+[2023.02.02-10.13.47:686][125]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2023.02.02-10.13.47:689][125]PIE: Server logged in
+[2023.02.02-10.13.47:690][125]PIE: Play in editor total start time 0,24 seconds.
+[2023.02.02-10.13.52:516][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.13.52:516][412]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.13.52:516][412]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.13.52:517][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.13.52:525][412]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.13.52:538][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.13.52:573][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.13.52:573][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.13.52:575][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.13.52:582][412]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2023.02.02-10.13.52:624][413]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.02.02-10.13.58:934][788]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.13.58:948][788]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.02-10.13.58:949][788]LogPlayLevel: [PlayLevel] Compiling BP_Projectile before play...
+[2023.02.02-10.13.59:036][788]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2023.02.02-10.13.59:038][788]LogPlayLevel: PlayLevel: Blueprint regeneration took 90 ms (1 blueprints)
+[2023.02.02-10.13.59:038][788]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:13:59)
+[2023.02.02-10.13.59:072][788]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.13.59:075][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003331s)
+[2023.02.02-10.13.59:076][788]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.13.59:077][788]LogPlayLevel: PIE: World Init took: (0.001780s)
+[2023.02.02-10.13.59:077][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005331s)
+[2023.02.02-10.13.59:116][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2023.02.02-10.13.59:116][788]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.02.02-10.13.59:116][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.13.59:116][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.13.59:116][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.13.59:116][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.13.59:116][788]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.13.59:116][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.13.59:116][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.13.59:116][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.13.59:117][788]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.13.59:117][788]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.13.59:117][788]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.13.59:117][788]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.13.59:127][788]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.13.59:127][788]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.13.59:135][788]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.13.59:135][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.13.59:136][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.13.59:136][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.13.59:136][788]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.13.59:136][788]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.13.59:136][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.13.59:137][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.13.59:137][788]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.13.59:137][788]LogInit: FAudioDevice initialized.
+[2023.02.02-10.13.59:137][788]LogAudio: Display: Audio Device (ID: 15) registered with world 'TurretTest'.
+[2023.02.02-10.13.59:146][788]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.13.59:147][788]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.13.59
+[2023.02.02-10.13.59:147][788]LogWorld: Bringing up level for play took: 0.001091
+[2023.02.02-10.13.59:148][788]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.02.02-10.13.59:151][788]PIE: Server logged in
+[2023.02.02-10.13.59:152][788]PIE: Play in editor total start time 0,209 seconds.
+[2023.02.02-10.14.09:896][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.14.09:897][429]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.14.09:897][429]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.14.09:897][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.14.09:907][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.14.09:920][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.14.09:956][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.14.09:956][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.14.09:957][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.14.09:964][429]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2023.02.02-10.14.10:005][430]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.02.02-10.14.16:329][797]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_ProjectileD799C0AE4A4D4A1E036C9490DFCB9D2E.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Projectile.uasset'
+[2023.02.02-10.14.16:371][797]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.02.02-10.14.16:371][797]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.02.02-10.14.17:572][869]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.14.17:584][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.14.17:584][869]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:14:17)
+[2023.02.02-10.14.17:584][869]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.14.17:587][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003249s)
+[2023.02.02-10.14.17:588][869]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.14.17:589][869]LogPlayLevel: PIE: World Init took: (0.001360s)
+[2023.02.02-10.14.17:589][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.004802s)
+[2023.02.02-10.14.17:629][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2023.02.02-10.14.17:631][869]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.02.02-10.14.17:631][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.14.17:631][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.14.17:631][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.14.17:631][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.14.17:631][869]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.14.17:631][869]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.14.17:631][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.14.17:631][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.14.17:632][869]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.14.17:632][869]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.14.17:632][869]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.14.17:632][869]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.14.17:643][869]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.14.17:643][869]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.14.17:651][869]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.14.17:652][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.14.17:652][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.14.17:652][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.14.17:652][869]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.14.17:652][869]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.14.17:652][869]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.14.17:654][869]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.14.17:654][869]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.14.17:654][869]LogInit: FAudioDevice initialized.
+[2023.02.02-10.14.17:654][869]LogAudio: Display: Audio Device (ID: 16) registered with world 'TurretTest'.
+[2023.02.02-10.14.17:662][869]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.14.17:664][869]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.14.17
+[2023.02.02-10.14.17:664][869]LogWorld: Bringing up level for play took: 0.001161
+[2023.02.02-10.14.17:665][869]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.02.02-10.14.17:668][869]PIE: Server logged in
+[2023.02.02-10.14.17:669][869]PIE: Play in editor total start time 0,089 seconds.
+[2023.02.02-10.14.22:846][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.14.22:846][177]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.14.22:846][177]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.14.22:847][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.14.22:855][177]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.14.22:868][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.14.22:902][177]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-10.14.22:903][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.14.22:904][177]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.14.22:906][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.14.22:911][177]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2023.02.02-10.14.22:950][178]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.02.02-10.14.28:994][537]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_Projectile8CC40CB9426DA0F93FE897BA245CB7A7.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Projectile.uasset'
+[2023.02.02-10.14.29:010][537]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.02.02-10.14.29:010][537]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.02.02-10.14.30:420][622]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.14.30:432][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.14.30:432][622]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:14:30)
+[2023.02.02-10.14.30:432][622]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.14.30:435][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003215s)
+[2023.02.02-10.14.30:437][622]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.14.30:437][622]LogPlayLevel: PIE: World Init took: (0.001799s)
+[2023.02.02-10.14.30:437][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005192s)
+[2023.02.02-10.14.30:475][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2023.02.02-10.14.30:477][622]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.02.02-10.14.30:477][622]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.14.30:477][622]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.14.30:477][622]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.14.30:477][622]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.14.30:477][622]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.14.30:477][622]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.14.30:477][622]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.14.30:477][622]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.14.30:478][622]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.14.30:478][622]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.14.30:478][622]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.14.30:478][622]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.14.30:488][622]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.14.30:488][622]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.14.30:497][622]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.14.30:497][622]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.14.30:497][622]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.14.30:497][622]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.14.30:498][622]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.14.30:498][622]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.14.30:498][622]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.14.30:499][622]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.14.30:499][622]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.14.30:499][622]LogInit: FAudioDevice initialized.
+[2023.02.02-10.14.30:499][622]LogAudio: Display: Audio Device (ID: 17) registered with world 'TurretTest'.
+[2023.02.02-10.14.30:507][622]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.14.30:509][622]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.14.30
+[2023.02.02-10.14.30:509][622]LogWorld: Bringing up level for play took: 0.001117
+[2023.02.02-10.14.30:509][622]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.02.02-10.14.30:513][622]PIE: Server logged in
+[2023.02.02-10.14.30:514][622]PIE: Play in editor total start time 0,087 seconds.
+[2023.02.02-10.14.35:297][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.14.35:297][906]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.14.35:297][906]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.14.35:297][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.14.35:308][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.14.35:322][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.14.35:357][906]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-10.14.35:357][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.14.35:358][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.14.35:360][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.14.35:365][906]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2023.02.02-10.14.35:404][907]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.02.02-10.14.41:150][248]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_Projectile811320DD47583FC294A53E987F68020F.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Projectile.uasset'
+[2023.02.02-10.14.41:180][248]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.02.02-10.14.41:180][248]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.02.02-10.14.42:473][325]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.14.42:485][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.14.42:485][325]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:14:42)
+[2023.02.02-10.14.42:485][325]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.14.42:488][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003275s)
+[2023.02.02-10.14.42:490][325]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.14.42:490][325]LogPlayLevel: PIE: World Init took: (0.001630s)
+[2023.02.02-10.14.42:490][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005107s)
+[2023.02.02-10.14.42:529][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2023.02.02-10.14.42:530][325]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.02.02-10.14.42:531][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.14.42:531][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.14.42:531][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.14.42:531][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.14.42:531][325]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.14.42:531][325]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.14.42:531][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.14.42:531][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.14.42:531][325]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.14.42:531][325]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.14.42:531][325]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.14.42:531][325]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.14.42:541][325]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.14.42:542][325]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.14.42:550][325]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.14.42:551][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.14.42:551][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.14.42:551][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.14.42:551][325]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.14.42:551][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.14.42:551][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.14.42:552][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.14.42:553][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.14.42:553][325]LogInit: FAudioDevice initialized.
+[2023.02.02-10.14.42:553][325]LogAudio: Display: Audio Device (ID: 18) registered with world 'TurretTest'.
+[2023.02.02-10.14.42:561][325]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.14.42:563][325]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.14.42
+[2023.02.02-10.14.42:563][325]LogWorld: Bringing up level for play took: 0.001118
+[2023.02.02-10.14.42:563][325]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2023.02.02-10.14.42:567][325]PIE: Server logged in
+[2023.02.02-10.14.42:568][325]PIE: Play in editor total start time 0,087 seconds.
+[2023.02.02-10.14.53:117][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.14.53:117][956]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.14.53:117][956]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.14.53:117][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.14.53:130][956]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.14.53:144][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.14.53:179][956]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-10.14.53:179][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.14.53:180][956]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.14.53:183][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.14.53:188][956]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2023.02.02-10.14.53:228][957]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.02.02-10.15.18:723][482]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_ProjectileB421854242EBD8A027D640AC86C3C6F5.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Projectile.uasset'
+[2023.02.02-10.15.18:741][482]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.02.02-10.15.18:741][482]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.02.02-10.15.20:563][591]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.15.20:574][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.15.20:574][591]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:15:20)
+[2023.02.02-10.15.20:611][591]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.15.20:615][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003430s)
+[2023.02.02-10.15.20:616][591]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.15.20:616][591]LogPlayLevel: PIE: World Init took: (0.001591s)
+[2023.02.02-10.15.20:617][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005225s)
+[2023.02.02-10.15.20:657][591]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2023.02.02-10.15.20:659][591]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.02.02-10.15.20:659][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.15.20:659][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.15.20:659][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.15.20:659][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.15.20:659][591]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.15.20:660][591]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.15.20:660][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.15.20:660][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.15.20:660][591]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.15.20:660][591]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.15.20:660][591]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.15.20:660][591]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.15.20:671][591]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.15.20:671][591]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.15.20:679][591]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.15.20:680][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.15.20:680][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.15.20:680][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.15.20:680][591]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.15.20:680][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.15.20:680][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.15.20:682][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.15.20:682][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.15.20:682][591]LogInit: FAudioDevice initialized.
+[2023.02.02-10.15.20:682][591]LogAudio: Display: Audio Device (ID: 19) registered with world 'TurretTest'.
+[2023.02.02-10.15.20:689][591]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.15.20:690][591]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.15.20
+[2023.02.02-10.15.20:691][591]LogWorld: Bringing up level for play took: 0.001151
+[2023.02.02-10.15.20:691][591]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.02.02-10.15.20:694][591]PIE: Server logged in
+[2023.02.02-10.15.20:695][591]PIE: Play in editor total start time 0,125 seconds.
+[2023.02.02-10.15.24:616][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.15.24:616][824]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.15.24:616][824]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.15.24:616][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.15.24:625][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.15.24:638][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.15.24:673][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.15.24:673][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.15.24:674][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.15.24:681][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2023.02.02-10.15.24:721][825]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.02.02-10.15.25:766][886]Cmd: TRANSACTION UNDO
+[2023.02.02-10.15.25:766][886]LogEditorTransaction: Undo Set Rotation
+[2023.02.02-10.15.29:169][ 75]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_Projectile7571AF014BAE082D1A42D18593252000.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Projectile.uasset'
+[2023.02.02-10.15.29:186][ 75]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.02.02-10.15.29:186][ 75]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.02.02-10.15.56:860][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Canon" FILE="../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset" SILENT=true
+[2023.02.02-10.15.56:868][731]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Canon341EF25E46F4DF11B9FD46B2C7AC43F0.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset'
+[2023.02.02-10.15.56:885][731]AssetCheck: New page: Asset Save: Canon
+[2023.02.02-10.15.56:885][731]LogContentValidation: Display: Validating StaticMesh /Game/Canon.Canon
+[2023.02.02-10.15.58:047][801]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.15.58:058][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.15.58:058][801]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:15:58)
+[2023.02.02-10.15.58:059][801]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.15.58:062][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003280s)
+[2023.02.02-10.15.58:063][801]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.15.58:064][801]LogPlayLevel: PIE: World Init took: (0.001528s)
+[2023.02.02-10.15.58:064][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.004990s)
+[2023.02.02-10.15.58:124][801]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2023.02.02-10.15.58:127][801]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.02.02-10.15.58:127][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.15.58:127][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.15.58:127][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.15.58:127][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.15.58:127][801]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.15.58:127][801]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.15.58:127][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.15.58:127][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.15.58:128][801]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.15.58:128][801]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.15.58:128][801]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.15.58:128][801]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.15.58:139][801]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.15.58:139][801]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.15.58:148][801]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.15.58:149][801]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.15.58:149][801]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.15.58:149][801]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.15.58:149][801]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.15.58:149][801]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.15.58:149][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.15.58:152][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.15.58:152][801]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.15.58:152][801]LogInit: FAudioDevice initialized.
+[2023.02.02-10.15.58:152][801]LogAudio: Display: Audio Device (ID: 20) registered with world 'TurretTest'.
+[2023.02.02-10.15.58:160][801]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.15.58:162][801]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.15.58
+[2023.02.02-10.15.58:162][801]LogWorld: Bringing up level for play took: 0.001195
+[2023.02.02-10.15.58:163][801]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.02.02-10.15.58:166][801]PIE: Server logged in
+[2023.02.02-10.15.58:167][801]PIE: Play in editor total start time 0,113 seconds.
+[2023.02.02-10.16.02:397][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.16.02:397][ 52]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.16.02:397][ 52]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.16.02:397][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.16.02:411][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.16.02:424][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.16.02:460][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-10.16.02:460][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.16.02:462][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.16.02:464][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.16.02:469][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2023.02.02-10.16.02:512][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.02.02-10.16.03:942][138]Cmd: TRANSACTION UNDO
+[2023.02.02-10.16.03:942][138]LogEditorTransaction: Undo Translate Socket
+[2023.02.02-10.16.05:858][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Canon" FILE="../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset" SILENT=true
+[2023.02.02-10.16.05:866][240]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/Canon992EEC984DA008CAC3EE37874C1324E8.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Canon.uasset'
+[2023.02.02-10.16.05:881][240]AssetCheck: New page: Asset Save: Canon
+[2023.02.02-10.16.05:881][240]LogContentValidation: Display: Validating StaticMesh /Game/Canon.Canon
+[2023.02.02-10.17.11:421][167]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2023.02.02-10.17.11:438][167]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/TurretTest687278584149FD3730B59F97B989CAC2.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/TurretTest.umap'
+[2023.02.02-10.17.11:475][167]AssetCheck: New page: Asset Save: TurretTest
+[2023.02.02-10.17.11:475][167]LogContentValidation: Display: Validating World /Game/Levels/TurretTest.TurretTest
+[2023.02.02-10.17.21:029][415]LogEditorViewport: Clicking on Actor (LMB): BP_Turret_C (BP_Turret)
+[2023.02.02-10.17.23:305][550]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.17.23:319][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.17.23:319][550]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:17:23)
+[2023.02.02-10.17.23:319][550]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.17.23:323][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003512s)
+[2023.02.02-10.17.23:324][550]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.17.23:324][550]LogPlayLevel: PIE: World Init took: (0.001485s)
+[2023.02.02-10.17.23:325][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005178s)
+[2023.02.02-10.17.23:366][550]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2023.02.02-10.17.23:368][550]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.02.02-10.17.23:368][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.17.23:368][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.17.23:368][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.17.23:368][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.17.23:368][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.17.23:368][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.17.23:368][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.17.23:368][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.17.23:369][550]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.17.23:369][550]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.17.23:369][550]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.17.23:369][550]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.17.23:380][550]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.17.23:380][550]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.17.23:390][550]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.17.23:390][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.17.23:390][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.17.23:390][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.17.23:391][550]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.17.23:391][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.17.23:391][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.17.23:393][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.17.23:393][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.17.23:393][550]LogInit: FAudioDevice initialized.
+[2023.02.02-10.17.23:393][550]LogAudio: Display: Audio Device (ID: 21) registered with world 'TurretTest'.
+[2023.02.02-10.17.23:403][550]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.17.23:405][550]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.17.23
+[2023.02.02-10.17.23:405][550]LogWorld: Bringing up level for play took: 0.001255
+[2023.02.02-10.17.23:405][550]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.02.02-10.17.23:409][550]PIE: Server logged in
+[2023.02.02-10.17.23:410][550]PIE: Play in editor total start time 0,098 seconds.
+[2023.02.02-10.17.31:796][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.17.31:797][ 49]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.17.31:797][ 49]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.17.31:797][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.17.31:807][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.17.31:820][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.17.31:854][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.17.31:855][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.17.31:856][ 49]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.17.31:864][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2023.02.02-10.17.31:902][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.02.02-10.17.51:553][216]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_Turret417CD4EC4BF1F96111E553AA2C69A1F3.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Turret.uasset'
+[2023.02.02-10.17.51:570][216]AssetCheck: New page: Asset Save: BP_Turret
+[2023.02.02-10.17.51:570][216]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Turret.BP_Turret
+[2023.02.02-10.17.53:106][307]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.17.53:119][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.17.53:119][307]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:17:53)
+[2023.02.02-10.17.53:119][307]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.17.53:123][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003251s)
+[2023.02.02-10.17.53:124][307]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.17.53:125][307]LogPlayLevel: PIE: World Init took: (0.001823s)
+[2023.02.02-10.17.53:125][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005263s)
+[2023.02.02-10.17.53:162][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2023.02.02-10.17.53:166][307]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.02.02-10.17.53:166][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.17.53:166][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.17.53:166][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.17.53:166][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.17.53:166][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.17.53:166][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.17.53:166][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.17.53:166][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.17.53:167][307]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.17.53:167][307]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.17.53:167][307]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.17.53:167][307]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.17.53:178][307]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.17.53:178][307]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.17.53:186][307]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.17.53:187][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.17.53:187][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.17.53:187][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.17.53:187][307]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.17.53:187][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.17.53:187][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.17.53:189][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.17.53:189][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.17.53:189][307]LogInit: FAudioDevice initialized.
+[2023.02.02-10.17.53:189][307]LogAudio: Display: Audio Device (ID: 22) registered with world 'TurretTest'.
+[2023.02.02-10.17.53:199][307]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.17.53:200][307]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.17.53
+[2023.02.02-10.17.53:201][307]LogWorld: Bringing up level for play took: 0.001178
+[2023.02.02-10.17.53:201][307]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.02.02-10.17.53:204][307]PIE: Server logged in
+[2023.02.02-10.17.53:206][307]PIE: Play in editor total start time 0,091 seconds.
+[2023.02.02-10.18.02:837][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.18.02:837][881]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.18.02:837][881]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.18.02:838][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.18.02:850][881]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.18.02:863][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.18.02:897][881]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-10.18.02:897][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.18.02:899][881]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.18.02:901][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.18.02:906][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2023.02.02-10.18.02:950][882]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.02.02-10.18.19:718][871]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_TurretE4F6B4D046967270906CE787E5D0A292.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Turret.uasset'
+[2023.02.02-10.18.19:734][871]AssetCheck: New page: Asset Save: BP_Turret
+[2023.02.02-10.18.19:734][871]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Turret.BP_Turret
+[2023.02.02-10.21.01:914][811]BlueprintLog: New page: Compile BP_Turret
+[2023.02.02-10.21.02:015][811]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2023.02.02-10.21.13:904][502]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_Turret09B32BC343B8F2F6E5C12EA3701A611D.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Turret.uasset'
+[2023.02.02-10.21.13:922][502]AssetCheck: New page: Asset Save: BP_Turret
+[2023.02.02-10.21.13:922][502]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Turret.BP_Turret
+[2023.02.02-10.21.14:698][549]BlueprintLog: New page: Compile BP_Turret
+[2023.02.02-10.21.14:795][549]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2023.02.02-10.21.16:236][631]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.21.16:248][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.21.16:248][631]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:21:16)
+[2023.02.02-10.21.16:271][631]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.21.16:274][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003460s)
+[2023.02.02-10.21.16:276][631]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.21.16:276][631]LogPlayLevel: PIE: World Init took: (0.001812s)
+[2023.02.02-10.21.16:276][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005513s)
+[2023.02.02-10.21.16:316][631]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2023.02.02-10.21.16:317][631]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.02.02-10.21.16:317][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.21.16:317][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.21.16:317][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.21.16:317][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.21.16:317][631]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.21.16:317][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.21.16:317][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.21.16:317][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.21.16:318][631]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.21.16:318][631]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.21.16:318][631]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.21.16:318][631]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.21.16:329][631]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.21.16:329][631]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.21.16:338][631]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.21.16:338][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.21.16:338][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.21.16:338][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.21.16:339][631]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.21.16:339][631]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.21.16:339][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.21.16:340][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.21.16:340][631]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.21.16:340][631]LogInit: FAudioDevice initialized.
+[2023.02.02-10.21.16:340][631]LogAudio: Display: Audio Device (ID: 23) registered with world 'TurretTest'.
+[2023.02.02-10.21.16:350][631]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.21.16:352][631]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.21.16
+[2023.02.02-10.21.16:352][631]LogWorld: Bringing up level for play took: 0.001140
+[2023.02.02-10.21.16:352][631]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2023.02.02-10.21.16:356][631]PIE: Server logged in
+[2023.02.02-10.21.16:357][631]PIE: Play in editor total start time 0,113 seconds.
+[2023.02.02-10.21.46:588][444]LogCharacterMovement: DefaultCharacter_C_0 is stuck and failed to move! Velocity: X=253.10 Y=247.29 Z=0.00 Location: X=-1221.07 Y=-1079.24 Z=113.83 Normal: X=0.59 Y=-0.80 Z=0.00 PenetrationDepth:0.000 Actor:BP_Turret_2 Component:TurretTop BoneName:None (0 other events since notify)
+[2023.02.02-10.22.18:000][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.22.18:001][322]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.22.18:001][322]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.22.18:002][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.22.18:012][322]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.22.18:026][322]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.22.18:061][322]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-10.22.18:062][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.22.18:063][322]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.22.18:066][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.22.18:072][322]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2023.02.02-10.22.18:113][323]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.02.02-10.22.18:993][374]LogEditorViewport: Clicking on Actor (LMB): BP_Turret_C (BP_Turret)
+[2023.02.02-10.24.13:264][179]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_TurretC760B43A469AE2A7D7E04C9893994465.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Turret.uasset'
+[2023.02.02-10.24.13:288][179]AssetCheck: New page: Asset Save: BP_Turret
+[2023.02.02-10.24.13:288][179]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Turret.BP_Turret
+[2023.02.02-10.25.29:871][707]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_Turret5B3E3F034C472D84191837B5205C56EF.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Turret.uasset'
+[2023.02.02-10.25.29:887][707]AssetCheck: New page: Asset Save: BP_Turret
+[2023.02.02-10.25.29:888][707]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Turret.BP_Turret
+[2023.02.02-10.25.37:716][ 81]BlueprintLog: New page: Compile BP_Turret
+[2023.02.02-10.25.37:814][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2023.02.02-10.25.39:020][148]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.25.39:031][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.25.39:032][148]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:25:39)
+[2023.02.02-10.25.39:032][148]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.25.39:035][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003473s)
+[2023.02.02-10.25.39:037][148]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.25.39:037][148]LogPlayLevel: PIE: World Init took: (0.001767s)
+[2023.02.02-10.25.39:037][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005421s)
+[2023.02.02-10.25.39:078][148]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2023.02.02-10.25.39:078][148]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.02.02-10.25.39:079][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.25.39:079][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.25.39:079][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.25.39:079][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.25.39:079][148]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.25.39:079][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.25.39:079][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.25.39:079][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.25.39:079][148]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.25.39:079][148]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.25.39:079][148]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.25.39:079][148]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.25.39:091][148]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.25.39:091][148]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.25.39:101][148]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.25.39:101][148]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.25.39:101][148]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.25.39:101][148]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.25.39:102][148]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.25.39:102][148]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.25.39:102][148]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.25.39:103][148]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.25.39:103][148]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.25.39:103][148]LogInit: FAudioDevice initialized.
+[2023.02.02-10.25.39:103][148]LogAudio: Display: Audio Device (ID: 24) registered with world 'TurretTest'.
+[2023.02.02-10.25.39:114][148]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.25.39:116][148]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.25.39
+[2023.02.02-10.25.39:117][148]LogWorld: Bringing up level for play took: 0.001124
+[2023.02.02-10.25.39:117][148]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2023.02.02-10.25.39:120][148]PIE: Server logged in
+[2023.02.02-10.25.39:121][148]PIE: Play in editor total start time 0,094 seconds.
+[2023.02.02-10.25.49:667][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.25.49:667][778]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.25.49:667][778]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.25.49:667][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.25.49:683][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.25.49:697][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.25.49:732][778]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.02-10.25.49:733][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.25.49:734][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.25.49:736][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.25.49:742][778]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2023.02.02-10.25.49:781][779]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.02.02-10.26.20:048][581]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_Turret60918A3E456789709BB838AAEA2CD417.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Turret.uasset'
+[2023.02.02-10.26.20:066][581]AssetCheck: New page: Asset Save: BP_Turret
+[2023.02.02-10.26.20:066][581]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Turret.BP_Turret
+[2023.02.02-10.26.23:085][762]BlueprintLog: New page: Compile BP_Turret
+[2023.02.02-10.26.23:192][762]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2023.02.02-10.26.31:610][972]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2023.02.02-10.26.31:626][972]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/TurretTestB6498D5D4D277DFDA4E1DB82CDBD201A.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/TurretTest.umap'
+[2023.02.02-10.26.31:657][972]AssetCheck: New page: Asset Save: TurretTest
+[2023.02.02-10.26.31:657][972]LogContentValidation: Display: Validating World /Game/Levels/TurretTest.TurretTest
+[2023.02.02-10.26.32:396][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.26.32:408][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.26.32:408][ 16]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:26:32)
+[2023.02.02-10.26.32:443][ 16]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.26.32:446][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003361s)
+[2023.02.02-10.26.32:447][ 16]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.26.32:448][ 16]LogPlayLevel: PIE: World Init took: (0.001589s)
+[2023.02.02-10.26.32:448][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005199s)
+[2023.02.02-10.26.32:496][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2023.02.02-10.26.32:497][ 16]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.02.02-10.26.32:497][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.26.32:497][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.26.32:497][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.26.32:497][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.26.32:497][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.26.32:497][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.26.32:497][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.26.32:497][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.26.32:497][ 16]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.26.32:497][ 16]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.26.32:497][ 16]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.26.32:498][ 16]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.26.32:508][ 16]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.26.32:509][ 16]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.26.32:517][ 16]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.26.32:518][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.26.32:518][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.26.32:518][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.26.32:518][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.26.32:518][ 16]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.26.32:518][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.26.32:520][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.26.32:520][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.26.32:520][ 16]LogInit: FAudioDevice initialized.
+[2023.02.02-10.26.32:520][ 16]LogAudio: Display: Audio Device (ID: 25) registered with world 'TurretTest'.
+[2023.02.02-10.26.32:528][ 16]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.26.32:530][ 16]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.26.32
+[2023.02.02-10.26.32:530][ 16]LogWorld: Bringing up level for play took: 0.001143
+[2023.02.02-10.26.32:530][ 16]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2023.02.02-10.26.32:534][ 16]PIE: Server logged in
+[2023.02.02-10.26.32:535][ 16]PIE: Play in editor total start time 0,132 seconds.
+[2023.02.02-10.26.37:837][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.26.37:837][331]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.26.37:838][331]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.26.37:838][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.26.37:853][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.26.37:867][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.26.37:902][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.26.37:902][331]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.26.37:903][331]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.26.37:911][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2023.02.02-10.26.37:948][332]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.02.02-10.26.56:016][407]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_ProjectileB6883F544849748F58EC2590AE1CA3A0.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Projectile.uasset'
+[2023.02.02-10.26.56:058][407]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.02.02-10.26.56:058][407]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.02.02-10.26.59:135][592]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.26.59:146][592]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.02-10.26.59:148][592]LogPlayLevel: [PlayLevel] Compiling BP_Projectile before play...
+[2023.02.02-10.26.59:234][592]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2023.02.02-10.26.59:238][592]LogPlayLevel: PlayLevel: Blueprint regeneration took 91 ms (1 blueprints)
+[2023.02.02-10.26.59:238][592]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:26:59)
+[2023.02.02-10.26.59:238][592]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.26.59:241][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003173s)
+[2023.02.02-10.26.59:242][592]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.26.59:243][592]LogPlayLevel: PIE: World Init took: (0.001719s)
+[2023.02.02-10.26.59:243][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.005058s)
+[2023.02.02-10.26.59:281][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2023.02.02-10.26.59:281][592]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.02.02-10.26.59:281][592]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.26.59:281][592]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.26.59:281][592]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.26.59:281][592]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.26.59:281][592]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.26.59:281][592]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.26.59:281][592]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.26.59:281][592]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.26.59:282][592]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.26.59:282][592]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.26.59:282][592]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.26.59:282][592]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.26.59:293][592]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.26.59:293][592]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.26.59:301][592]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.26.59:301][592]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.26.59:301][592]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.26.59:302][592]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.26.59:302][592]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.26.59:302][592]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.26.59:302][592]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.26.59:303][592]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.26.59:303][592]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.26.59:303][592]LogInit: FAudioDevice initialized.
+[2023.02.02-10.26.59:303][592]LogAudio: Display: Audio Device (ID: 26) registered with world 'TurretTest'.
+[2023.02.02-10.26.59:316][592]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.26.59:318][592]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.26.59
+[2023.02.02-10.26.59:318][592]LogWorld: Bringing up level for play took: 0.001090
+[2023.02.02-10.26.59:318][592]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2023.02.02-10.26.59:322][592]PIE: Server logged in
+[2023.02.02-10.26.59:323][592]PIE: Play in editor total start time 0,181 seconds.
+[2023.02.02-10.27.35:058][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.27.35:058][731]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.27.35:059][731]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.27.35:059][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.27.35:071][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.27.35:085][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.27.35:122][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.27.35:122][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.27.35:124][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.27.35:133][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2023.02.02-10.27.35:173][732]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.02.02-10.27.59:322][172]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_Projectile3C6048C14841714753678C88D7E9B321.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Projectile.uasset'
+[2023.02.02-10.27.59:341][172]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.02.02-10.27.59:341][172]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.02.02-10.28.00:064][216]BlueprintLog: New page: Compile BP_Projectile
+[2023.02.02-10.28.00:131][216]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2023.02.02-10.28.00:534][234]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/BP_Projectile35445C2441363B5F21D962A481D5F1D1.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Blueprints/BP_Projectile.uasset'
+[2023.02.02-10.28.00:550][234]AssetCheck: New page: Asset Save: BP_Projectile
+[2023.02.02-10.28.00:550][234]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Projectile.BP_Projectile
+[2023.02.02-10.28.01:282][276]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2023.02.02-10.28.03:596][276]LogSlate: Window 'Save Content' being destroyed
+[2023.02.02-10.28.05:611][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.02.02-10.28.05:627][393]LogSavePackage: Moving '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Saved/TurretTest6C5F097444C344C131E99F8D7B2733E8.tmp' to '../../../../../../Users/marcb/OneDrive/Documents/Unreal Projects/DUGENET_YOUSFI_ZHENG_UNREAL/DYZ_UnrealProject/Content/Levels/TurretTest.umap'
+[2023.02.02-10.28.05:652][393]AssetCheck: New page: Asset Save: TurretTest
+[2023.02.02-10.28.05:652][393]LogContentValidation: Display: Validating World /Game/Levels/TurretTest.TurretTest
+[2023.02.02-10.28.06:825][463]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.02-10.28.06:837][463]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.02-10.28.06:837][463]PIE: New page: PIE session: TurretTest (2 févr. 2023 à 12:28:06)
+[2023.02.02-10.28.06:837][463]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.28.06:840][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003345s)
+[2023.02.02-10.28.06:841][463]LogAIModule: Creating AISystem for world TurretTest
+[2023.02.02-10.28.06:841][463]LogPlayLevel: PIE: World Init took: (0.001408s)
+[2023.02.02-10.28.06:842][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TurretTest.TurretTest to /Game/Levels/UEDPIE_0_TurretTest.TurretTest (0.004965s)
+[2023.02.02-10.28.06:880][463]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2023.02.02-10.28.06:881][463]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.02.02-10.28.06:881][463]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.02-10.28.06:881][463]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.02-10.28.06:881][463]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.02-10.28.06:881][463]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.02-10.28.06:881][463]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.02-10.28.06:881][463]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.02-10.28.06:881][463]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.02-10.28.06:881][463]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.02-10.28.06:882][463]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.02-10.28.06:882][463]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.02-10.28.06:882][463]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.02-10.28.06:882][463]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.02-10.28.06:892][463]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.02-10.28.06:892][463]LogAudioMixer: Display: 1: FrontRight
+[2023.02.02-10.28.06:901][463]LogAudioMixer: Display: Using Audio Device Speaker (MSI Sound Tune)
+[2023.02.02-10.28.06:902][463]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.02-10.28.06:902][463]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.02-10.28.06:902][463]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.02-10.28.06:902][463]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.02-10.28.06:902][463]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.02-10.28.06:902][463]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.02.02-10.28.06:904][463]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.02-10.28.06:904][463]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.02-10.28.06:904][463]LogInit: FAudioDevice initialized.
+[2023.02.02-10.28.06:904][463]LogAudio: Display: Audio Device (ID: 27) registered with world 'TurretTest'.
+[2023.02.02-10.28.06:912][463]LogLoad: Game class is 'DefaultGameMode_C'
+[2023.02.02-10.28.06:914][463]LogWorld: Bringing World /Game/Levels/UEDPIE_0_TurretTest.TurretTest up for play (max tick rate 60) at 2023.02.02-11.28.06
+[2023.02.02-10.28.06:914][463]LogWorld: Bringing up level for play took: 0.001099
+[2023.02.02-10.28.06:914][463]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2023.02.02-10.28.06:918][463]PIE: Server logged in
+[2023.02.02-10.28.06:918][463]PIE: Play in editor total start time 0,086 seconds.
+[2023.02.02-10.28.10:948][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.28.10:948][702]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_TurretTest
+[2023.02.02-10.28.10:948][702]LogWorld: UWorld::CleanupWorld for TurretTest, bSessionEnded=true, bCleanupResources=true
+[2023.02.02-10.28.10:948][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.28.10:957][702]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.02-10.28.10:971][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.02-10.28.11:006][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.02-10.28.11:007][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.28.11:008][702]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.02-10.28.11:015][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2023.02.02-10.28.11:052][703]LogPlayLevel: Display: Destroying online subsystem :Context_38
